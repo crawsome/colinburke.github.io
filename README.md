@@ -1,9 +1,34 @@
 # Colin Burke (Crawsome)
 
-Jack of all IT. Experience in Cloud, IT Operations, Networking, Software Development, and Security. github.com/crawsome
+## About Me
+Business owner, Googler, Python teacher (and forever student), IT Support veteran, thinker, tinkerer. 
 
-Connect with me on [My Linkedin](https://www.linkedin.com/in/colingburke/) for 
+Connect with me on [My Linkedin](https://www.linkedin.com/in/colingburke/) for professional connections.
 
-Check out the main [Github](https://github.com/crawsome) page that is the backend of all these projects. 
+See my [public resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) for work history and skill inventory. 
+## Things I like
 
-Kill some time and grind out a couple hours with [My Python RPG](https://repl.it/@CrawlinBurt/Python-RPG)
+Fan of: Python, Coffee, Progressive Metal, riddles, Gaming, Guitar, Karaoke, QWERTY Phones, social safety nets.
+
+## Things I don't like
+
+Not a fan of: Social media, societal norms, cruelty or abuse of power.
+
+## Things to do 
+
+Kill some time and grind out a couple hours with my fully-featured [Python text RPG](https://repl.it/@CrawlinBurt/Python-RPG)
+
+Download my [Python Guitar Scale Chart](https://github.com/crawsome/GuitarScaleChart) to practice guitar chords and scales up the fretboard.
+
+Do you wear a Fitbit Versa? [Check out my free custom Megaman Watch Face](https://github.com/crawsome/BurkeClock)
+
+Check out the main [Github](https://github.com/crawsome) page for more things I've done thought of. 
+
+#####TODO: 
+Check out my [recommendations](./recommendations.md) for *products that did me gud*.
+
+Check out my [Projects page](./projects.md) for a portfolio of things I did that you should see.
+
+## "Please Clap" Section
+
+Did I do you a favor or teach you something useful, and you want to buy me a coffee or beer? [Donate, so I can dedicate more time to learning more teachable things](https://www.paypal.me/gitcraw)
