@@ -25,7 +25,7 @@ Do you wear a Fitbit Versa? [Check out my free custom Megaman Watch Face](https:
 Check out the main [Github](https://github.com/crawsome) page for more things I've done thought of. 
 
 ##### TODO SECTION: 
-Check out my [recommendations](./recommendations.md) for *products that did me gud*.
+Check out my [recommendations](./recommendations.html) for *products that did me gud*.
 
 Check out my [processes](./processes.md) for *guides and walkthroughs I've written*.
 
