@@ -1,6 +1,6 @@
 # Colin Burke (Crawsome)
 
-## About Me
+[About Me](./aboutme.md)
 Business owner, Googler, Python teacher (and forever student), IT Support veteran, thinker, tinkerer. 
 
 Connect with me on [My Linkedin](https://www.linkedin.com/in/colingburke/) for professional connections.
