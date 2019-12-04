@@ -24,6 +24,7 @@
 * I like Jeopardy, so I made a [trainer for it](https://github.com/crawsome/jeopardy-trainer)
 * I want you to be a [good speller](https://github.com/crawsome/spellingpractice)
 * I'm into [random music generation](https://github.com/crawsome/PyMusicGen)
+* Do you wear a Fitbit Versa? Check out my [free custom Megaman Watch Face](https://github.com/crawsome/BurkeClock)
 * I'm a lifelong gamer. I want to finish making [my 2D dream game](https://imgur.com/a/1XQ0gmU)
 * I created a [text-based RPG](https://github.com/crawsome/PyRPG_Mini) in Python
 * I created a [guitar scale chart in Python](https://github.com/crawsome/GuitarScaleChart)
