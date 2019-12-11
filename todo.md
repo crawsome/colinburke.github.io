@@ -1,6 +1,5 @@
 ####todo:
-* [Processes](./processes.md) for guides and walkthroughs I've written.
-* Youtube channel
-* Github Sponsors
-* Videos
-* My [Project portfolio](./portfolio.md) 
+* [Processes](./processes.md) 
+* [Github Sponsor](https://github.com/sponsors/crawsome/)
+* [Youtube Channel](https://www.youtube.com/channel/UCXkAWjxCmiZkfVocLP7sbNg)
+* [Project portfolio](./portfolio.md) 
