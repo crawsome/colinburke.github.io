@@ -1,21 +1,16 @@
 # About Me
 
-**Why hire Colin Burke?**:
+[Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
 
-My [Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
-* **Education**
+## TL;DR
+**Education**
   * Computer Networking degree (2009) w/ work experience
   * Computer Security degree (2017) w/ work experience
   * Computer Science degree (2017) w/ [github full of projects](https://github.com/crawsome)
-* **Workplace experience**:
-  * Google
-  * Princeton University
-  * Small / Medium Franchise Companies 
-  * Consulting
-* **Certifications**:
+##**Certifications**:
   * Google Associate Cloud Engineer (2019)
   * A+ Certification (2006)
-* **I'm looking for employment**:
+* **I'm always looking for interesting opportunities**:
   * Connect with me on [My Linkedin](https://www.linkedin.com/in/colingburke/)
   * See my [public resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) for full work history and skill inventory. 
 
@@ -31,7 +26,7 @@ My [Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCme
 * I created a [text-based RPG](https://github.com/crawsome/PyRPG_Mini) in Python. Fork it and you can customize CSVs for levels, enemy names, weapons names and power, and create your own turn based RPG!
 * I created a [guitar scale chart in Python](https://github.com/crawsome/GuitarScaleChart)
 * I make [Chili](https://i.imgur.com/WzLIpDv.png) and [Buffalo Chicken Dip](https://i.imgur.com/1XvIf0p.png) you'd die for. 
-* I make my own [Mint Herbal Tea](https://i.imgur.com/0RtLsn8.png)
+* I make my own [Mint Herbal Tisane](https://i.imgur.com/0RtLsn8.png)
 * I'm a big fan of karaoke. 
 * Competed in 2 college robotics competitions
 * I'm an advocate for bringing back the QWERTY phone. 
