@@ -3,13 +3,18 @@
 [Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
 
 ## TL;DR
+
+<img src="https://i.imgur.com/ROS06ZY.png" alt="drawing" width="150"/>
+
 ### Education
   * Computer Networking degree (2009) - Bucks County Community College
   * Computer Security degree (2017) - East Stroudsburg University
   * Computer Science degree (2017) - East Stroudsburg University
+  
 ### Certifications:
   * Google Associate Cloud Engineer (2019)
   * A+ Certification (2006)
+  
 ### I'm always looking for interesting opportunities:
   * Connect with me on [My Linkedin](https://www.linkedin.com/in/colingburke/)
   * See my [public resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) for full work history and skill inventory. 
