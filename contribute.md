@@ -1,4 +1,4 @@
-## How to Support
+## Contribute
 
 I want to code to satisfy my mind's curiosity, and I dream to be paid for it. Here's my best effort at that so far:
 
@@ -19,7 +19,6 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
 * You're interested in many of the perks below:
 
 ### Benefits of your support:
-
 * **Draft feature requests** for my projects
 * **Help choose which content I develop**!
 * You can help **contribute to my livelihood**
