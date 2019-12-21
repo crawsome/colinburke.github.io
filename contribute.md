@@ -1,6 +1,9 @@
 ## Contribute
 
-I want to code to satisfy my mind's curiosity, and I dream to be paid for it. Here's my best effort at that so far:
+I code to learn, to satisfy my mind's curiosity. 
+When I have a grasp of a subject, I love to teach it to others.
+I dream to be paid for teaching others. 
+Here's my best effort at that so far:
 
 If any of my work has helped you, it would be greatly appreciated you help me with a contribution using the options below
 
@@ -25,12 +28,12 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
 * Contributors have the option to **video chat with me**, and talk about a range of subjects.
 
 #### Topics I'm familiar with:
-  * Working at Google
-  * Python Coding
-  * Going back to school in your late 20s
+  * Working at Google 
+  * Living in Silicon Valley
+  * Python coding 
+  * Going back to school in your late 20s.
   * Job Interviewing / Resume Preparation
-  * Moving to, and living in Silicon Valley
-  * Working in state-level academia, ivy-league academia
+  * Working in IT state-level academia, ivy-league academia
   * Working for small / medium businesses / self-owned business
   * Opening your own business / consulting for a living
   * Life advice / Career advice for IT support
