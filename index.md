@@ -1,6 +1,6 @@
 # Colin Burke
 
-*Bring ideas to life through learning*
+*Bringing ideas to life through learning*
 
 [My Projects](./projects.md)
 
