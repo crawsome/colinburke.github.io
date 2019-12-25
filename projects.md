@@ -2,9 +2,6 @@
 
 Selections from my project portfolio
 
-## PDF Renamer
-* Do you have a pile of business PDFs that need to be renamed to something inside each PDF? Check out my [PDF Renamer](https://github.com/crawsome/pdf-renamer)
-
 ## Python RPG Mini
 * I created a [text-based RPG](https://github.com/crawsome/PyRPG_Mini) in Python. 
 * Fork it and you can customize CSVs for levels, enemy names, weapons names, riddles, and power, and create your own turn based RPG!
