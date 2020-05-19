@@ -1,11 +1,8 @@
-# MESHUGGAH: DO NOT LOOK DOWN: 
-This is a fan-written Standard Tuning guide
-
 ## Track Info
 * Artist: Meshuggah
 * Album: Kolosss
 * Track: Do not Look Down
-* Year/label 2012/Nuclear Blast
+* Year/Label: 2012/Nuclear Blast
 
 ## Tab Author/date: 
 Colin Burke - 2020
@@ -19,7 +16,7 @@ Enjoy!
 
 ## Notes:
  - More of a guide on how the separately play the parts, than a tab for now. Please submit issues if you find problems!
- - Before you say "BUT IT's NOT UP A HALF-STEP TO F", Nobody seems to have done it in standard yet. You can find F-tuned bass tabs on songtstrr or guitarpro.
+ - This is a fan-written Standard Tuning guide. Before you say "BUT IT's NOT UP A HALF-STEP TO F", Nobody seems to have done it in standard yet. You can find F-tuned bass tabs on songtstrr or guitarpro.
  - Mostly written in 4-string. Areas that could improve with a 5-string are shown alongside 4-string. 
  - Play along with the song to get the real rhythm. The bars are not time-accurate, it's a tab.
  - They chop some of the riffs up as the song goes on, so sometimes up to a whole beat changes (see second verse intro).
