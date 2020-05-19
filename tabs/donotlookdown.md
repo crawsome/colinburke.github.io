@@ -7,7 +7,7 @@
 * Track: Do not Look Down
 
 ## Tab Author/date: 
-colin@colinburke.com - 2020
+colin Burke - 2020
 
 ## Fair Use
 Copyright Disclaimer under section 107 of the Copyright Act of 1976, 
