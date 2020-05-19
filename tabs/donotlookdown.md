@@ -1,23 +1,19 @@
 # DO NOT LOOK DOWN: MESHUGGAH: Standard Tuning guide
 2012 -  Nuclear Blast
 
-## Fair Use
-Copyright Disclaimer under section 107 of the Copyright Act of 1976, 
-allowance is made for “fair use” for purposes such as criticism, 
-comment, news reporting, teaching, scholarship, education and research.
-
-## Artist: 
-Meshuggah
-
-## Album: 
-Kolosss
-
-## Track:
-Do not Look Down
+## Track Info
+* Artist: Meshuggah
+* Album: Kolosss
+* Track: Do not Look Down
 
 ## Tab Author/date: 
 Colin Burke - 2020
 colinburke.com
+
+## Fair Use
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, 
+allowance is made for “fair use” for purposes such as criticism, 
+comment, news reporting, teaching, scholarship, education and research.
 
 Enjoy!
 
@@ -31,7 +27,7 @@ Enjoy!
  
 ### Song:
 
-#### Chorus Riff / Intro. 0:00       
+#### Chorus Riff / Intro. (0:00)      
 ```
 G|------------------|-------------------|------------------|-------------8-----|
 D|------------6---4-|------------9-6--7-|------------6---4-|--------------6--7-|
@@ -49,20 +45,21 @@ A|-------------56---|---------------65--|-------------56---| To Verse
 E|4-5-4-x-5-4----7-5|4-5-4-x-5-4-------5|4-5-4-x-5-4----7-5|
 
 ```
-#### Verse 1: Main riff 0:36
-```									Octave bend happens on 4th measure
+#### Verse 1: Main riff (0:36)
+```																				   Octave bend happens on 4th measure
 G|--------------------------|--------------------------|--------------------------|--------------------------|
 D|--------------------------|--------------------------|--------------------------|---------------------4b5b4|
 A|--------------------------|--------------------------|--------------------------|--------------------------|
 E|4-5-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--2-1-2-4------|
 
+																				   Verse 1: Transition to Chorus #1 0:57
 G|--------------------------|--------------------------|--------------------------|----------------------|
 D|--------------------------|--------------------------|--------------------------|---------------------4|
 A|--------------------------|--------------------------|--------------------------|-------------------2--|
 E|1-2-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--2-1-2-4-4b5b4|1-2-1-x-2-1--4-2-1----| 
 ```
 
-#### Chorus 1: 1:00
+#### Chorus 1: (1:00)
 ```
 G|---------------------|------------------|-------------8-------|---------|
 D|--------------9-6--7-|------------6---4-|--------------6--7---|---------|
@@ -70,8 +67,9 @@ A|-----------------65--|-------------56---|---------------5-----|---------|
 E|5-4-5-4-x-5-4-------5|4-5-4-x-5-4----7-5|-4-5-4-x-5-4----7-5-4|4-5-4-x-5| (to Verse 2)
 ```
 
-#### Verse 2 ("Claims and Values") 1:12
-This time, the first E bend feels like it happens sooner, every other measure, the octave bend now happens. 
+#### Verse 2 ("Claims and Values") (1:12)
+This time, first E bend feels like it happens faster. 
+Every 2nd measure, the octave bend now happens.
 ```
 G|-----------------|---------------------------|---------------------------|---------------------------|
 D|-----------------|---------------------4b5b4-|---------------------------|---------------------4b5b4-|
@@ -84,7 +82,7 @@ A|---------------------------|---------------------------|----------------------
 E|1-2-1-x-2-1--2-1-2-4-4b5b4-|1-2-1-x-2-1--2-1-2-4-------|1-2-1-x-2-1--2-1-2-4-4b5b4-|1-2-1-x-2-1--2-1-2-4-------|
 ```
 
-#### Chorus #2: 1:36 ("Great viable citizen")
+#### Chorus #2: (1:36) ("Great viable citizen")
 ```
 G|--------------------|-------------------|-------------/8-------|-------------------|
 D|--------------9-6--7|--------------6---4|---------------6--7---|--------------6---4|
@@ -92,7 +90,7 @@ A|-----------------65-|---------------56--|----------------5-----|--------------
 E|1-4-5-4-x-5-4-------|5-4-5-4-x-5-4----7-|5-4-5-4-x-5-4----7-5-4|5-4-5-4-x-5-4----7-|
 ```
 
-#### Solo: 1:48 ("Bow!") 
+#### Solo: (1:48) ("Bow!") 
 Listen to the song to see how the E bass rhythm changes here by taking out a note.
 ```
                                                                              Solo fill #1
@@ -108,9 +106,9 @@ A|------------2-3------|------------2-3------|------------2-3------|------------
 E|1-2-x-2-1-------4---2|1-2-x-2-1-------4---2|1-2-x-2-1-------4---2|1-2-x-2-1-----------------|
 ```
 
-#### Breakdown #1: 2:12 ("Shimmering surface")
+#### Breakdown #1: (2:12) ("Shimmering surface")
 ```
- | 1st riff      |       solo  fill #1       |1st riff with extra note|       Solo fill #2       |octaves, then 1st riff|small rest then fill to to bendy bridge
+ | 1st riff      |       solo  fill #1       |1st riff with extra note|       Solo fill #2       |octaves,then 1st riff| trans.  |
 G|---------------|---------------------------|------------------------|----7h8p7------5----------|---------------------|---------|
 D|---------6---4-|-------9b--------7---------|----------76----4-------|---------6-7---------9~-4-|----4----4-----6---4-|---------| 
 A|----------56---|----------8-9----------11-9|------------5-6---------|-------------8---6-5------|----------------56---|---------|
@@ -118,17 +116,17 @@ E|1----m1-----7-5|1---m1--------10---8-7-----|1--1---m1------7-51---1-|-1-------
 m = mute, then play the 1.
 ```
 
-#### Riff #7: 2:36 
-4 string. 
+#### Riff #7: (2:36) - 4 string. 
 The first bend can be done on the 1st fret, the second one requires an excessive STR stat to bend, so I put it on the 5 to end the measure.
 ```
 G|-3-----------s3--2------------------|
 D|---1----------------1---------------| (play x5)
 A|-----0-1b--0x-----------0-1b--------|
 E|1----------------------------5bb--5-|
+```
 
-#### Riff #7:  2:36 
-5 string
+#### Riff #7: (2:36) - 5 string
+```
 G|------------------------------------|
 D|-8-----------s8--7------------------| 
 A|---6----------------6---------------| (play x5)
@@ -136,9 +134,8 @@ E|-----5-6b--5------------5-6b--5bb-5-|
 B|6-----------------------------------|
 ```
 
-#### Riff 8: 3:00
+#### Riff 8: (3:00) - 4-string. 
 ```
-4-string. 
 G|---1----4----5----1-|---4----5----1----4-|---5----1----4----5-|
 D|--------------------|--------------------|--------------------|
 A|--3----3----3----3--|--3----3----3----3--|--3----3----3----3--|
@@ -155,9 +152,8 @@ D|--------------------|----------------------|-------------------|--------------
 A|--3----3----3----3--|--3----3-----3----3---|-3---3---3----3----|--3----3----3-------|
 E|1----1----1----1----|1----1-----1----1-----|1---1---1----1-----|1----1----1---------|
 ```
-#### Riff 8: 3:00
+#### Riff 8: (3:00) - 5-string.   
 ```
-5-string.                                                    
 G|----------------------------------------------------------------|
 D|---6----9----10----6----9----10----6----9----10----6----9----10-|
 A|----------------------------------------------------------------|
@@ -177,7 +173,7 @@ E|--8-----8----8-----8-----8-----8-----8-----8----8-----8----8-----8-----8----8-
 B|6-----6----6-----6-----6-----6-----6-----6----6-----6----6-----6-----6----6----6--------|
 ```
 
-#### Verse 3:48
+#### Verse (3:48)
 ```
 G|---------------------|---------------------|---------------------|-----------------------------|
 D|----------3-------1--|----------3-------1--|----------3-------1--|---------9b--------7---------|
@@ -189,7 +185,7 @@ D|----------3-------1--|----------3-------1--|----------3-------1--|------------
 A|------------2-3------|------------2-3------|------------2-3------|-------------------8---6-5---|
 E|1-2-x-2-1-------4---2|1-2-x-2-1-------4---2|1-2-x-2-1-------4---2|1-2-x-2-1--------------------|
 ```
-#### Breakdown #2: 4:12 ("Shimmering surface") 
+#### Breakdown #2: (4:12) ("Shimmering surface") 
 This part was the hardes to tab, and needs serious attention to detail, and needs updating. 
 There's a bass rhythm that hits more often with the bass drum this time around.
 ```
@@ -205,20 +201,22 @@ A|-------------|
 E|1-2-1-xx-2-1-|
 ```
 ## Tab story:
-Ugh that took me a month to tab. 
+Ugh that took me a month to tab. Loved every minute of it. 
 I watched several cover videos / teaching videos in F, and I just wanted to make this work on my 5-string in standard. 
-I found that most of the song can be gotten-away-with on a 4-string, then I started tabbing it until it became an obsession for a month :)
+I soon found that most of the song can be gotten-away-with on a 4-string.
+I started tabbing it until it became an obsession for a month :)
 
 ## Support the Author
-Support the Author and their creative work at at colinburke.com
-This took me almost a month to tab. I host it here for free. I update it here, too.
-This version is certainly not perfect, and I will improve it fix it with feedback. 
+Support me and my creative work at at colinburke.com
+I host it here for free (lol Github pages). I update it here, too though.
+Please submit issues so I can make it better!
+
+### The tab wants to live here
+* **I can't stop you, but* UG/other sites have a ***parasitic business model* that feeds on ***tabbers' hard work*** with no tangible rewards for submitters. 
+* The best, and most up-to-date version, and future transcriptions / alt versions will always be here. 
+* 100% Feel free to save / bookmark / modify / copy for yourself 
 
 ## Support Fair Use
 Copyright Disclaimer under section 107 of the Copyright Act of 1976, 
 allowance is made for “fair use” for purposes such as criticism, 
 comment, news reporting, teaching, scholarship, education and research.
-
-## Don't upload this to UG or other tab sites please. 
-I Don't think I can stop you, but please do not upload tabs to tab sites like UG. They didn't work for this. 
-Feel free to save for yourself. Though the best, and most up-to-date version, and future transcriptions will always be here. 
