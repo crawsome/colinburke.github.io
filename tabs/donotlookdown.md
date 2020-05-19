@@ -1,10 +1,11 @@
-# DO NOT LOOK DOWN: MESHUGGAH: Standard Tuning guide
-2012 -  Nuclear Blast
+# MESHUGGAH: DO NOT LOOK DOWN: 
+This is a fan-written Standard Tuning guide
 
 ## Track Info
 * Artist: Meshuggah
 * Album: Kolosss
 * Track: Do not Look Down
+* Year/label 2012/Nuclear Blast
 
 ## Tab Author/date: 
 Colin Burke - 2020
