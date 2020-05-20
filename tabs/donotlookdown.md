@@ -4,7 +4,6 @@
 * Track: Do not Look Down
 * Year/Label: 2012/Nuclear Blast
 
-
 ## Tab Author/date: 
 Colin Burke - 2020
 
@@ -210,7 +209,7 @@ I started tabbing it until it became an obsession for a month :)
 * Please submit issues so I can make it better!
 
 ### The tab wants to live here
-* *I can't stop you, but* UG/other sites have a **parasitic business model** that feeds on **tabbers' hard work** with **no tangible rewards for submitters**. 
+* I can't stop you, but UG/other sites have a **parasitic business model** that **leeches on tabbers' hard work** with **no tangible rewards for tabbers**. 
 * 100% Feel free to save / bookmark / modify / copy for yourself 
 
 ## Support Fair Use
