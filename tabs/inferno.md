@@ -185,8 +185,12 @@ C#m                   A                    E              B
 
 #### Intro, as outro (x4)
 ```
-A				     C#m
-Trails of fire  You always knew
-            B				     F#m
-They would carry me home They'd lead me to you
+A				     C#m                   B				     F#m
+Trails of fire  You always knew They would carry me home They'd lead me to you
 ```
+
+### The tab wants to live here
+* I can't stop you, but UG/other sites have a **parasitic business model** that **leeches on tabbers' hard work** with **no tangible rewards for tabbers**. 
+* 100% Feel free to save / bookmark / modify / copy for yourself 
+
+Thanks! Hope you liked it!
