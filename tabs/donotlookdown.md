@@ -4,6 +4,7 @@
 * Track: Do not Look Down
 * Year/Label: 2012/Nuclear Blast
 
+
 ## Tab Author/date: 
 Colin Burke - 2020
 
@@ -15,6 +16,7 @@ comment, news reporting, teaching, scholarship, education and research.
 Enjoy!
 
 ## Notes:
+ - Instruments Covered: **4/5 String Bass**
  - More of a guide on how the separately play the parts, than a tab for now. Please submit issues if you find problems!
  - This is a fan-written Standard Tuning guide. Before you say "BUT IT's NOT UP A HALF-STEP TO F", Nobody seems to have done it in standard yet. You can find F-tuned bass tabs on songtstrr or guitarpro.
  - Mostly written in 4-string. Areas that could improve with a 5-string are shown alongside 4-string. 
@@ -208,7 +210,7 @@ I host it here for free (lol Github pages). I update it here, too though.
 Please submit issues so I can make it better!
 
 ### The tab wants to live here
-* **I can't stop you, but* UG/other sites have a ***parasitic business model* that feeds on ***tabbers' hard work*** with no tangible rewards for submitters. 
+* **I can't stop you, but* UG/other sites have a ***parasitic business model** that feeds on **tabbers' hard work** with **no tangible rewards for submitters**. 
 * The best, and most up-to-date version, and future transcriptions / alt versions will always be here. 
 * 100% Feel free to save / bookmark / modify / copy for yourself 
 
