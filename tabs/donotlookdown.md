@@ -205,13 +205,13 @@ I soon found that most of the song can be gotten-away-with on a 4-string.
 I started tabbing it until it became an obsession for a month :)
 
 ## Support the Author
-Support me and my creative work at at colinburke.com
-I host it here for free (lol Github pages). I update it here, too though.
-Please submit issues so I can make it better!
+* Support me and my creative work at at colinburke.com
+* The best, and most up-to-date version, and future transcriptions / alt versions will always be here. 
+* Please submit issues so I can make it better!
 
 ### The tab wants to live here
-* **I can't stop you, but* UG/other sites have a ***parasitic business model** that feeds on **tabbers' hard work** with **no tangible rewards for submitters**. 
-* The best, and most up-to-date version, and future transcriptions / alt versions will always be here. 
+* *I can't stop you, but* UG/other sites have a ***parasitic business model** that feeds on **tabbers' hard work** with **no tangible rewards for submitters**. 
+
 * 100% Feel free to save / bookmark / modify / copy for yourself 
 
 ## Support Fair Use
