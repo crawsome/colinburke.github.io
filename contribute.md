@@ -10,7 +10,10 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
 ## Contribution Options:
 * Become a [Github Sponsor](https://github.com/sponsors/crawsome/) (coming soon)
 * Please [star my repos if you used any](https://github.com/crawsome/)
-* Click my [Amazon affiliate](./recommendations.html) links of products I purchased and liked.
+* Click my [Amazon affiliate](./recommendations.html) links of products I purchased and liked. 
+* My Venmo: 
+
+<img src="./assets/img/venmoqr.png" width="230" height="175"></a> 
 
 ### Please consider contributing if:
 * One of my projects or videos helped you
