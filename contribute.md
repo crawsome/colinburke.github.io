@@ -13,7 +13,7 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
 * Click my [Amazon affiliate](./recommendations.html) links of products I purchased and liked. 
 * My Venmo: 
 
-<img src="./assets/img/venmoqr.png" width="230" height="175"></a> 
+<img src="./assets/img/venmoqr.png" width="132" height="100">
 
 ### Please consider contributing if:
 * One of my projects or videos helped you
