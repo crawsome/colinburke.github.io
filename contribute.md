@@ -10,7 +10,6 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
 ## Contribution Options:
 * Become a [Github Sponsor](https://github.com/sponsors/crawsome/) (coming soon)
 * Please [star my repos if you used any](https://github.com/crawsome/)
-* Make a direct [Paypal donation](https://www.paypal.me/gitcraw)
 * Click my [Amazon affiliate](./recommendations.html) links of products I purchased and liked.
 
 ### Please consider contributing if:
