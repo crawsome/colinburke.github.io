@@ -13,6 +13,7 @@
   * Computer Science degree (2017) - East Stroudsburg University
 
 ### Certifications:
+  * PCAP - Certified Associate in Python Programming (2020)
   * Google Associate Cloud Engineer (2019)
   * A+ Certification (2006)
 
