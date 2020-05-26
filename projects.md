@@ -9,6 +9,9 @@ Selections from my personal project portfolio
 * I created a [text-based RPG](https://github.com/crawsome/PyRPG_Mini) in Python. 
 * Fork it and you can customize CSVs for levels, enemy names, weapons names, riddles, and power, and create your own turn based RPG!
 
+## Chords / Tabs / Music I authored
+* Here are [some of the chords and tabs I authored over the years](tabschordsmusic.md)
+
 ## GuitarScaleChart
 * I created a [guitar scale chart in Python](https://github.com/crawsome/GuitarScaleChart), so you can practice your scales.
 
