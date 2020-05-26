@@ -21,8 +21,6 @@ Enjoy!
  
 ### Song:
 
-#### Chorus Riff / Intro. (0:00)     Song is interchangeable with Devin Townsend's awesome cover.
-
 Standard Tuning.
 
 #### Intro
