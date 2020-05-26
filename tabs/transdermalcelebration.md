@@ -1,17 +1,42 @@
-Song is interchangeable with Devin Townsend's awesome cover.
+## Track Info
+* Artist: Devin Townsend
+* Album: Transcendence
+* Track: Transdermal Celebration (Ween Cover)
+* Year/Label: 2016/Hevy Devy Records
+
+## Tab Author/date: 
+Colin Burke - 10/12/2016
+
+## Fair Use
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, 
+allowance is made for “fair use” for purposes such as criticism, 
+comment, news reporting, teaching, scholarship, education and research.
+
+Enjoy!
+
+## Notes:
+ - Devin plays the song in E. 
+ - Ween's studio version plays the song in a detuned F
+ - Ween [plays it in E live](https://www.youtube.com/watch?v=sU4Hcpo3Brg). 
+ 
+### Song:
+
+#### Chorus Riff / Intro. (0:00)     Song is interchangeable with Devin Townsend's awesome cover.
 
 Standard Tuning.
 
-[Intro]
-
+#### Intro
+```
 e|-0-0-0-0---0---0-0-0-0---0---0-0-0---|
 B|-2s4s2-0---0---0-0-0-0---0---0-0-0---|
 G|-----------2---1-2-1-2-s-4-s-2-1-1---| X2
 D|---------------------------------2---|
 A|---------------------------------2---|
 E|-------------------------------------|
+```
 
-[Verse]
+#### Verse
+```
      A
 Transdermal celebration
 
@@ -32,9 +57,10 @@ Shine their beauty unto me
 
                  E
 I wish you could see them
+```
 
-
-[Verse 2]
+#### Verse 2
+```
    A
 Tectonic tribulation
 
@@ -52,10 +78,10 @@ I'm growing with the land
 
          A                         E
 Time has taken my hands and let me touch them
-
+```
  
-
-[Chorus]
+#### Chorus
+```
 A
 Hey, hey,
 
@@ -67,24 +93,29 @@ Lay on the lawn, he's already home
 
          E                    D
 When the morning ray hits his face
+```
 
-(intro)
+#### intro
+```
 e|-0-0-0-0---0---0-0-0-0---0---0-0-0---|
 B|-2s4s2-0---0---0-0-0-0---0---0-0-0---|
 G|-----------2---1-2-1-2-s-4-s-2-1-1---| X1
 D|---------------------------------2---|
 A|---------------------------------2---|
 E|-------------------------------------|
+```
 
-[Solo]
+#### Solo
+```
 A E
 
 A E
 
 D D
+```
 
-
-[Verse]
+#### Verse
+```
      A
 Transdermal celebration
 
@@ -102,9 +133,10 @@ But where is the mutation
 
          A                            E
 Who once told me it was safe, I can't find him
+```
 
-
-[Chorus]
+#### Chorus
+```
 A
 Hey, hey,
 
@@ -116,11 +148,14 @@ Lay on the lawn, he's already home
 
          E                    D
 When the morning ray hits his face
+```
 
-(intro)
+#### intro
+```
 e|-0-0-0-0---0---0-0-0-0---0---0-0-0---|
 B|-2s4s2-0---0---0-0-0-0---0---0-0-0---|
 G|-----------2---1-2-1-2-s-4-s-2-1-1---| (Fade)
 D|---------------------------------2---|
 A|---------------------------------2---|
 E|-------------------------------------|
+```
