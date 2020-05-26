@@ -8,13 +8,13 @@
 * [My Public Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
 
 ### Education
-  * Computer Networking degree (2009) - Bucks County Community College
-  * Computer Security degree (2017) - East Stroudsburg University
-  * Computer Science degree (2017) - East Stroudsburg University
+  * A.A. Computer Networking (2009) - Bucks County Community College
+  * B.S. Computer Security (2017) - East Stroudsburg University
+  * B.S. Computer Science (2017) - East Stroudsburg University
 
 ### Certifications:
   * PCAP - Certified Associate in Python Programming (2020)
-  * Google Associate Cloud Engineer (2019)
+  * ACE - Google Associate Cloud Engineer (2019)
   * A+ Certification (2006)
 
 ### Connect with me:
