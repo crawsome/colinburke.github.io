@@ -10,7 +10,7 @@ Selections from my personal project portfolio
 * Fork it and you can customize CSVs for levels, enemy names, weapons names, riddles, and power, and create your own turn based RPG!
 
 ## Chords / Tabs / Music I authored
-* Here are [some of the chords and tabs I authored over the years](tabschordsmusic.md)
+* Here are [some of the chords and tabs I authored over the years](./tabs/tabschordsmusic.md)
 
 ## GuitarScaleChart
 * I created a [guitar scale chart in Python](https://github.com/crawsome/GuitarScaleChart), so you can practice your scales.
