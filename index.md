@@ -8,5 +8,5 @@
 
 <a href="./contribute.html"><img src="./assets/img/contribute.png" width="64" height="64"></a> [Contribute to my work](./contribute.md) 
 
-<a href="./about.html"><img src="./assets/img/about.png" width="64" height="64"></a> [About me](./aboutme.md)
+<a href="./about.html"><img src="./assets/img/about.png" width="64" height="64"></a> [About me / Contact](./aboutme.md)
 
