@@ -5,7 +5,7 @@
 
 ### How to Connect with me
 
-* [Schedule 1:1 time with me on Calendy](https://calendly.com/crawsome)
+* [Schedule 1:1 time with me](https://calendly.com/crawsome)
 
 * [My Linkedin](https://www.linkedin.com/in/colingburke/)
 
