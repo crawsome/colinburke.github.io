@@ -1,11 +1,13 @@
 # About Me
 <img src="https://i.imgur.com/6WgxY0X.png" alt="drawing" width="150"/>
 
-### Professional Links
+* [My Public Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
+
+### How to Connect with me
+
+* [Schedule 1:1 time with me on Calendy](https://calendly.com/crawsome)
 
 * [My Linkedin](https://www.linkedin.com/in/colingburke/)
-
-* [My Public Resume](https://docs.google.com/document/d/1uvc-U7dC4QSa3q8V0DhF2e_8Vd_OGCmebDLZKrT9FtA) 
 
 ### Education
   * A.A. Computer Networking (2009) - Bucks County Community College
