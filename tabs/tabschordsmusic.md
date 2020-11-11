@@ -14,4 +14,4 @@ Sometimes I hear a song I really like, and I want to just be able to understand 
 * [Meshuggah: Do not look down](./donotlookdown.md)
 
 #### 4 String
-* [Hiroyuki Sawano: Inferno (Promare Soundtrack)](./inferno.md)
+* [Hiroyuki Sawano: Inferno (Promare Soundtrack)](./inferno.txt)
