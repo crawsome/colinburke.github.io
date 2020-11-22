@@ -6,7 +6,9 @@ Sometimes I hear a song I really like, and I want to just be able to understand 
     
 ## Chords
 * [Devin Townsend (Ween Cover) - Transdermal Celebration](./transdermalcelebration.txt)
+* [Devin Townsend - Summer (Demo)](./summer.txt)
 * [Hiroyuki Sawano: Inferno (Promare Soundtrack) Chords + Bass](./inferno.txt)
+
 
 ## Tabs
 ### Bass
