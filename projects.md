@@ -2,6 +2,10 @@
 
 Selections from my personal project portfolio
 
+## Super Guitario Zomboso!
+(Name pending)
+* I'm a lifelong gamer. I want to finish making [My 2D dream game](https://drive.google.com/file/d/15hEXjih6cWGjQL0Tpt5GwU4EmU-x88Lj/view?usp=share_link). I spent almost a year on it, and I want to create levels, enemies, AI, more weapons, and polish the game up! 
+
 ## PDF Renamer
 * Do you have a pile of business PDFs that need to be renamed to something inside each PDF? Check out my [PDF Renamer](https://github.com/crawsome/pdf-renamer)
 
@@ -15,12 +19,10 @@ Selections from my personal project portfolio
 ## GuitarScaleChart
 * I created a [guitar scale chart in Python](https://github.com/crawsome/GuitarScaleChart), so you can practice your scales.
 
-## Super Guitario Zomboso!
-(Name pending)
-* I'm a lifelong gamer. I want to finish making [my 2D dream game](https://imgur.com/a/1XQ0gmU). I spent almost a year on it, and I want to create levels, enemies, AI, more weapons, and polish the game up! 
-
-## PymusicGen
+## PymusicGen v1,v2,v3
 * I'm into [random music generation](https://github.com/crawsome/PyMusicGen)
+* I'm into [making it better](https://github.com/crawsome/PyMusicGen2)
+* I'm into [making it more useful](https://github.com/crawsome/pymusicgenv3)
 
 ## Jeopardy Trainer
 * I like Jeopardy, so I made a [trainer for it](https://github.com/crawsome/jeopardy-trainer)
