@@ -8,7 +8,7 @@ Here's my best effort at that so far:
 If any of my work has helped you, it would be greatly appreciated you help me with a contribution using the options below
 
 ## Contribution Options:
-* Become a [Github Sponsor](https://github.com/sponsors/crawsome/) (coming soon)
+* Become a [Github Sponsor](https://github.com/sponsors/crawsome/)
 * Please [star my repos if you used any](https://github.com/crawsome/)
 * Click my [Amazon affiliate](./recommendations.html) links of products I purchased and liked. 
 * My Venmo: 
