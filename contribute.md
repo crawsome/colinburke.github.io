@@ -36,7 +36,7 @@ If any of my work has helped you, it would be greatly appreciated you help me wi
   * Going back to school in your late 20s.
   * Job Interviewing / Resume Preparation
   * Working in IT state-level academia, ivy-league academia
-  * Working for small / medium businesses / self-owned business
+  * Working for tech startups / small / medium businesses / self-owned business
   * Opening your own business / consulting for a living
   * Life advice / Career advice for IT support
   * Wacky and complicated music recommendations 
