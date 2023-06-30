@@ -26,7 +26,7 @@ zpool export
 sudo zpool replace ssd_mirror2 OLDDRIVE NEWDRIVE
 
 ### What kind of drives should I buy?
-Not fucking Seagate Baraccudas
+Not Seagate Baraccudas
 
 # Life Tips
 
@@ -52,8 +52,6 @@ Beware of big-box stores like target, staples, officemax will sell you a shitty 
 ## Health
 
 ### Eating at your desk
-
-### The pitfalls of Multiplayer drinking Alone
 
 ### Desk worker Yoga
 I really like doing yoga but I hate classes. Why not watch an instructor from home? https://www.youtube.com/watch?v=Pz5sO8b9G2o Sarah Beth has really mellow chill vibes I enjoy, nothing too flashy. 
