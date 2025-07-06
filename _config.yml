@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 
 # Site settings
 title: "Colin Burke - Developer & Consultant"
@@ -20,6 +20,8 @@ lang: en_US
 
 # Navigation structure
 nav_links:
+  - title: "Portfolio"
+    url: "/portfolio.html"
   - title: "Projects"
     url: "/projects.html"
   - title: "Tech Blog" 
@@ -38,3 +40,11 @@ nav_links:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+
+# Custom theme settings
+show_downloads: false
+show_header: true
+show_footer: true
+
+# Custom CSS
+custom_css: true

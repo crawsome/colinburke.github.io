@@ -6,20 +6,19 @@
 
 ## 🚀 What You're Supporting
 
-I'm working on **65+ repositories** across multiple domains:
+I'm building tools that solve real problems - from game development frameworks to music technology platforms to automation scripts that save hours of work.
 
-### **Current Projects (2025)**
-- **Wyrm Warrior** - Dragon Quest style RPG in GameMaker Studio 2
-- **PyMusicGen v3** - Web-based music generation platform
-- **Game Client Simulator** - Steam-like game management interface  
-- **Image Viewer** - Flask webapp for browsing image directories
-- **Audio Processing Tools** - DeFidelity, Orchestroller, and more
+### **Current Focus Areas**
+- **Game Development Tools** - Building RPGs and game management systems
+- **Music Technology** - AI-powered music generation and audio processing
+- **Python Automation** - Scripts and tools that streamline workflows
+- **Educational Content** - Technical blog posts and open source examples
 
 ### **Community Impact**
-- **150+ GitHub Stars** across public projects
-- **Open source contributions** that others build upon
-- **Educational content** - Technical blog posts and code examples
+- **Open source contributions** that others build upon and learn from
+- **Educational content** - Sharing knowledge through code and articles
 - **Music transcriptions** - Guitar tabs for the metal community
+- **Practical tools** - Solutions to real-world development challenges
 
 ---
 
@@ -67,12 +66,12 @@ Free but valuable - helps with project visibility and credibility.
 - Ability to explore experimental ideas
 
 ### **Infrastructure & Tools**
-- Cloud hosting for web applications (PyMusicGen v3, Image Viewer)
+- Cloud hosting for web applications
 - Development tools and software licenses
 - Hardware for testing and performance optimization
 
 ### **Educational Content**
-- Technical blog posts with code examples
+- Technical blog posts with implementation examples
 - Video tutorials (planned YouTube channel)
 - Open source project documentation
 
@@ -98,7 +97,7 @@ Free but valuable - helps with project visibility and credibility.
 ### **Premium Sponsors ($25+)**
 - **1:1 video chat sessions** - Discuss projects, get advice, or just chat
 - **Custom development consideration** - Small features or modifications
-- **Portfolio review** - Code review and technical guidance
+- **Portfolio review** - Technical guidance and mentoring
 
 ---
 
@@ -107,7 +106,7 @@ Free but valuable - helps with project visibility and credibility.
 ### **Collaboration**
 Interested in working together? I'm open to:
 - **Pair programming** sessions
-- **Code reviews** and technical mentoring
+- **Technical mentoring** and code reviews
 - **Project collaboration** on interesting problems
 
 ### **Professional Services**
@@ -117,27 +116,6 @@ Need custom development work? Check out my **[IT Consulting Services](./itconsul
 - **[LinkedIn](https://www.linkedin.com/in/colingburke/)** - Professional connections
 - **[Schedule 1:1 time](https://calendly.com/crawsome)** - Technical discussions
 - **Share my work** - Help spread the word about useful projects
-
----
-
-## 📈 Recent Accomplishments
-
-### **2024-2025 Development Highlights**
-- **Multiple game projects** currently in progress
-- **Web platform migration** - PyMusicGen v3 going web-based
-- **Audio processing innovations** - DeFidelity, Orchestroller
-- **Practical tools** - Image viewers, automation scripts
-
-### **Community Recognition**
-- **GuitarScaleChart: 65 stars** - Popular music learning tool
-- **PyRPG Mini: 65 stars** - Educational game development example
-- **Reddit Image Scraper: 42 stars** - Enhanced community tool
-
-### **Technical Growth**
-- Expanded from Python-only to **multi-language development**
-- Added **game development expertise** with GameMaker Studio 2
-- Enhanced **web development skills** with Flask applications
-- Improved **audio processing** capabilities
 
 ---
 
@@ -159,17 +137,17 @@ Your support directly enables more coding time and creative exploration.
 
 ## 🔥 What's Coming Next?
 
-### **Short Term (2025)**
-- **Wyrm Warrior** completion and release
-- **PyMusicGen v3** public beta launch
-- **Technical blog series** on game development and music technology
-- **Additional audio processing tools**
+### **Short Term Goals**
+- Complete current game projects and release them
+- Launch web-based music generation platform
+- Expand technical blog with implementation stories
+- Build additional automation tools
 
-### **Long Term Goals**
+### **Long Term Vision**
 - **YouTube channel** for development tutorials
-- **Game development course** based on real project experience
-- **Music technology platform** for creative collaboration
-- **Open source contributions** to larger projects
+- **Comprehensive courses** based on real project experience
+- **Open source contributions** to larger community projects
+- **Collaborative platforms** for creative development
 
 ---
 
@@ -182,8 +160,8 @@ Ready to help fund creative development?
 
 ### **Stay Connected**
 - **[GitHub](https://github.com/crawsome)** - Follow for project updates
+- **[Portfolio](./portfolio.html)** - See the latest work
 - **[Tech Blog](./techblog.md)** - Development insights and tutorials
-- **[LinkedIn](https://www.linkedin.com/in/colingburke/)** - Professional updates
 
 ### **Questions?**
 Have questions about sponsorship or want to discuss collaboration?
@@ -198,11 +176,11 @@ Every contribution, no matter the size, makes a meaningful difference. Whether y
 - ⭐ Star a repository
 - 💰 Provide financial support  
 - 🤝 Share my work with others
-- 💬 Engage with the community
+- 💬 Engage with the content
 
-You're helping independent development thrive and ensuring these projects continue to benefit everyone.
+You're helping build a community around learning, creating, and solving real problems through code.
 
-**Together, we're building something awesome.**
+*Your support turns curiosity into code, and code into tools that help others.*
 
 ---
 

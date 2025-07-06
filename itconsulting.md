@@ -14,15 +14,11 @@
 - **API Integration** - Third-party service connections, data synchronization
 - **Game Development** - Python-based games and interactive applications
 
-*Recent projects: Image directory browsers, audio processing tools, RPG systems*
-
 ### **Cloud Architecture & Migration**
 - **Google Cloud Platform** - Certified Associate Cloud Engineer
 - **Infrastructure Design** - Scalable, cost-effective cloud solutions
 - **Migration Planning** - On-premise to cloud transitions with minimal downtime
 - **Cost Optimization** - Right-sizing resources and implementing best practices
-
-*Drawing from hands-on cloud experience and real-world implementations*
 
 ### **Game Development Consulting**
 - **GameMaker Studio 2** - Complete game development pipeline
@@ -30,35 +26,11 @@
 - **Audio Integration** - Music systems, sound effects, interactive audio
 - **Publishing Strategy** - Platform selection, marketing, distribution
 
-*Current projects: Dragon Quest-style RPGs, game management tools*
-
 ### **Web Application Development**
 - **Flask Applications** - Lightweight, performant web solutions
 - **Database Integration** - Data modeling, optimization, migration
 - **User Interface Design** - Clean, functional, responsive designs
 - **Performance Optimization** - Speed improvements, caching strategies
-
----
-
-## 🛠️ Technical Specializations
-
-### **Programming Languages**
-- **Python** ⭐⭐⭐⭐⭐ - Primary expertise, 8+ years
-- **Game Maker Language** ⭐⭐⭐⭐ - Game development, interactive media
-- **Swift** ⭐⭐⭐ - iOS development, mobile apps
-- **JavaScript/HTML/CSS** ⭐⭐⭐ - Web development, UI/UX
-
-### **Frameworks & Tools**
-- **Flask** - Web application development
-- **Tkinter** - Desktop GUI applications  
-- **GameMaker Studio 2** - Complete game development
-- **Git/GitHub** - Version control, collaboration, CI/CD
-
-### **Cloud & Infrastructure**
-- **Google Cloud Platform** - Certified expertise
-- **Linux Administration** - Server management, automation
-- **Database Design** - Relational and NoSQL solutions
-- **Networking** - Configuration, troubleshooting, security
 
 ---
 
@@ -95,21 +67,18 @@
 
 ### **Proven Track Record**
 - **Enterprise Engineering Experience** - Large-scale problem solving
-- **65+ Repositories** - Demonstrable coding expertise  
-- **10+ Years in Business** - PowerOnPC LLC established track record
-- **Education & Certifications** - Computer Science, Security, Cloud Engineering
-
-### **Real-World Experience**
+- **PowerOnPC LLC** - 10+ years established business
 - **High-Profile Clients** - Princeton University and enterprise organizations
-- **Current Projects** - Building multiple software solutions
-- **Open Source Contributor** - Community-recognized work (150+ GitHub stars)
-- **Problem Solver** - "Edge-case person" who tackles unusual challenges
+- **Real-World Solutions** - Building multiple active software projects
 
-### **Comprehensive Approach**
+### **Unique Problem-Solving Approach**
+- **Edge-case specialist** - Experienced with unusual technical challenges
 - **End-to-End Solutions** - From planning to implementation to maintenance
 - **Documentation & Training** - Your team learns alongside development
-- **Reasonable Rates** - High-quality work without enterprise markup
 - **Flexible Engagement** - Project-based or ongoing support
+
+### **Current Technical Expertise**
+For detailed technical background and certifications, see my **[About page](./aboutme.md)**.
 
 ---
 
@@ -138,16 +107,16 @@
 ## 🚀 Recent Success Stories
 
 ### **Audio Processing Automation**
-Built **DeFidelity** - automated WAV file processing system for creating lo-fi audio versions across entire directories.
+Built automated WAV file processing system for creating lo-fi audio versions across entire directories.
 
 ### **Game Development Pipeline**
-Developed multiple games including **Wyrm Warrior** (Dragon Quest-style RPG) and **Game Client Simulator** (Steam-like interface).
+Developed multiple games including Dragon Quest-style RPG and Steam-like game management interface.
 
 ### **Web Application Development**
-Created **Image Viewer** - Flask-based webapp for browsing local image directories with performance optimization.
+Created Flask-based webapp for browsing local image directories with performance optimization.
 
 ### **Music Technology Platform**
-Evolved **PyMusicGen** from desktop application to web-based music generation platform.
+Evolved music generation platform from desktop application to web-based platform.
 
 ---
 
@@ -157,7 +126,7 @@ Evolved **PyMusicGen** from desktop application to web-based music generation pl
 
 *"The automation scripts Colin built have saved us hours every week. The investment paid for itself within the first month."*
 
-*[Additional testimonials needed]*
+*[Additional testimonials available upon request]*
 
 ---
 
@@ -173,7 +142,6 @@ Evolved **PyMusicGen** from desktop application to web-based music generation pl
 - **[Schedule 1:1 Time](https://calendly.com/crawsome)** - Direct calendar booking
 - **[LinkedIn](https://www.linkedin.com/in/colingburke/)** - Professional networking  
 - **[GitHub](https://github.com/crawsome)** - Review my work portfolio
-- **Email** - [Contact through GitHub](https://github.com/crawsome)
 
 ### **Project Inquiry**
 Please include:
@@ -184,25 +152,12 @@ Please include:
 
 ---
 
-## 🎖️ Credentials & Experience
+## 🎖️ Professional Background
 
-### **Professional Background**
-- **Enterprise Software Developer** - Large-scale software development
-- **PowerOnPC LLC** - 10+ years in business
-- **Princeton University** - Enterprise IT consulting
+**PowerOnPC LLC** - Established business with over a decade of technical consulting experience. For complete educational background and certifications, visit the **[About page](./aboutme.md)**.
 
-### **Education**
-- **B.S. Computer Science** - East Stroudsburg University (2017)
-- **B.S. Computer Security** - East Stroudsburg University (2017)
-- **A.A. Computer Networking** - Bucks County Community College (2009)
-
-### **Certifications**
-- **Google Associate Cloud Engineer** (2019)
-- **PCAP - Certified Associate in Python Programming** (2020)
-- **A+ Certification** (2006)
+**Recent Project Portfolio:** View examples of my work at **[Portfolio](./portfolio.html)** and detailed technical implementations at **[Projects](./projects.md)**.
 
 ---
 
-*Ready to solve your technical challenges? Let's discuss how I can help bring your ideas to life.*
-
-**[Schedule a Free Consultation](https://calendly.com/crawsome)**
+*Ready to discuss your project? Let's start with a conversation about your technical challenges and how I can help solve them.*
