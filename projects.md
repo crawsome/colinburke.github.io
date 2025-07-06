@@ -7,7 +7,7 @@
 ### Wyrm Warrior (2025)
 A Dragon Quest style clone built in GameMaker Studio 2. Classic JRPG mechanics with modern polish.
 
-**Status:** Active Development  
+**Status:** Work in Progress  
 **Technologies:** Game Maker Language  
 **Features:** [Description needed]  
 [Screenshot needed]
@@ -45,7 +45,7 @@ Collaborative game jam submission for "Dreams and Nightmares" 2024. Created with
 ### PyMusicGen v3 (2025)
 The latest evolution of my music generation project - now web-based! Generate musical compositions through an intuitive web interface.
 
-**Status:** Active Development (Jun 2025)  
+**Status:** Currently Building (Jun 2025)  
 **Technologies:** Python, Web Framework  
 **Features:** [Description needed]  
 [Screenshot needed]
@@ -82,7 +82,7 @@ Mass-decrease fidelity of WAV files recursively in subdirectories. Perfect for c
 ### Image Viewer (2025)
 A Flask-based webapp for browsing your image directories. Clean, fast, and lightweight image management.
 
-**Status:** Active Development  
+**Status:** Ongoing Project  
 **Technologies:** Python, Flask  
 **Features:** [Description needed]  
 [Screenshot needed]

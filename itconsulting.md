@@ -95,13 +95,13 @@
 
 ### **Proven Track Record**
 - **Enterprise Engineering Experience** - Large-scale problem solving
-- **65+ Active Repositories** - Demonstrable coding expertise  
+- **65+ Repositories** - Demonstrable coding expertise  
 - **10+ Years in Business** - PowerOnPC LLC established track record
 - **Education & Certifications** - Computer Science, Security, Cloud Engineering
 
 ### **Real-World Experience**
 - **High-Profile Clients** - Princeton University and enterprise organizations
-- **Active Development** - Currently building multiple projects
+- **Current Projects** - Building multiple software solutions
 - **Open Source Contributor** - Community-recognized work (150+ GitHub stars)
 - **Problem Solver** - "Edge-case person" who tackles unusual challenges
 

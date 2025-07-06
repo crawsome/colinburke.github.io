@@ -1,6 +1,6 @@
 # Colin Burke
 
-*Bringing ideas to life through learning and active development*
+*Bringing ideas to life through learning and experimentation*
 
 **Python Specialist • Game Developer • Music Technology Enthusiast • Cloud Engineer**
 
@@ -13,7 +13,7 @@
 - **Game Client Simulator** - Steam-like game management interface
 - **Image Viewer** - Flask webapp for directory browsing
 
-*65+ repositories • 44 followers • Active daily development*
+*65+ repositories • 44 followers • Regular commits*
 
 ---
 

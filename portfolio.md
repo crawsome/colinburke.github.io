@@ -1,6 +1,6 @@
 # Portfolio Showcase
 
-*Visual overview of active development and completed projects*
+*Visual overview of recent work and completed projects*
 
 ---
 
@@ -23,7 +23,7 @@
 - Data-driven character and monster systems
 - [Code example needed] - Battle system architecture
 
-*Status: Active Development*
+*Status: Work in Progress*
 
 ---
 
@@ -87,7 +87,7 @@
 - Web-based interface for accessibility
 - [Description needed] - Advanced generation algorithms
 
-*Status: Active Development*
+*Status: Currently Building*
 
 ---
 
@@ -157,7 +157,7 @@ Clean, fast, and lightweight image management for browsing local image directori
 - Lazy loading for large collections
 - [Description needed] - Optimization strategies
 
-*Status: Active Development*
+*Status: Ongoing Project*
 
 ---
 
@@ -323,7 +323,7 @@ High-quality transcriptions of complex metal pieces for the guitar community.
 ### Community Metrics
 - **150+ GitHub Stars** across public projects
 - **44 GitHub Followers** 
-- **65+ Active Repositories**
+- **65+ Repositories**
 - **Regular contributions** throughout 2024-2025
 
 ### Technical Growth
@@ -350,4 +350,4 @@ Help fund continued open source work
 
 ---
 
-*This portfolio represents active, ongoing development. All projects are continuously evolving with new features and improvements.* 
+*This portfolio represents recent work and ongoing projects. All projects are continuously evolving with new features and improvements.* 

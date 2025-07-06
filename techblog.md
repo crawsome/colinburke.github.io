@@ -1,6 +1,6 @@
 # Tech Blog
 
-*Insights from active development and problem-solving*
+*Development insights and problem-solving experiences*
 
 ---
 

@@ -2,11 +2,11 @@
 
 <img src="https://i.imgur.com/6WgxY0X.png" alt="Colin Burke" width="150"/>
 
-*"Filled with determination"* - Active developer bringing ideas to life through learning and experimentation.
+*"Filled with determination"* - Developer bringing ideas to life through learning and experimentation.
 
 ## 🚀 Current Focus (2025)
 
-I'm actively developing across multiple domains:
+I'm currently working across multiple domains:
 - **Game Development:** Building Dragon Quest-style RPGs and game management tools
 - **Music Technology:** Web-based music generation and audio processing tools
 - **Web Applications:** Flask-based utilities and image management systems
@@ -28,7 +28,7 @@ I'm actively developing across multiple domains:
 
 ## 🎯 What I Do
 
-### Active Development
+### Current Work
 - **65+ GitHub Repositories** spanning games, music, utilities, and tools
 - **Python Specialist** with focus on automation, audio processing, and web applications
 - **Game Development** in GameMaker Studio 2 and Python
@@ -50,7 +50,7 @@ I'm an edge-case person who falls into the cracks and experiences the lesser-tra
 - **65 Repositories** (mix of public and private)
 - **44 Followers** 
 - **Notable Projects:** GuitarScaleChart (65⭐), PyRPG_Mini (65⭐), Reddit_Image_Scraper (42⭐)
-- **Active Contributions:** Regular commits throughout 2024-2025
+- **Recent Contributions:** Regular commits throughout 2024-2025
 
 ## 🎵 Creative Side
 

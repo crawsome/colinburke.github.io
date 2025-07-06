@@ -6,9 +6,9 @@
 
 ## 🚀 What You're Supporting
 
-I'm actively developing **65+ repositories** across multiple domains:
+I'm working on **65+ repositories** across multiple domains:
 
-### **Current Active Projects (2025)**
+### **Current Projects (2025)**
 - **Wyrm Warrior** - Dragon Quest style RPG in GameMaker Studio 2
 - **PyMusicGen v3** - Web-based music generation platform
 - **Game Client Simulator** - Steam-like game management interface  
@@ -123,7 +123,7 @@ Need custom development work? Check out my **[IT Consulting Services](./itconsul
 ## 📈 Recent Accomplishments
 
 ### **2024-2025 Development Highlights**
-- **Multiple game projects** in active development
+- **Multiple game projects** currently in progress
 - **Web platform migration** - PyMusicGen v3 going web-based
 - **Audio processing innovations** - DeFidelity, Orchestroller
 - **Practical tools** - Image viewers, automation scripts
