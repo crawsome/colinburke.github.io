@@ -2,7 +2,7 @@
 
 *Bringing ideas to life through learning and active development*
 
-**Ex-Google Engineer • Python Specialist • Game Developer • Music Technology Enthusiast**
+**Python Specialist • Game Developer • Music Technology Enthusiast • Cloud Engineer**
 
 ---
 

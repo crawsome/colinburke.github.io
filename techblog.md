@@ -232,9 +232,9 @@ Building **TextGoUp** taught me about iOS text handling and display optimization
 ## ☁️ Cloud & Infrastructure
 
 ### Google Cloud Insights: From Certification to Practice
-*Based on ACE certification and Google experience*
+*Based on ACE certification and cloud experience*
 
-My time at Google and GCP certification provided insights into:
+My GCP certification and cloud experience provided insights into:
 
 **Architecture Patterns:**
 - Microservices deployment strategies

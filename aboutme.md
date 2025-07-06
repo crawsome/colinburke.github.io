@@ -14,7 +14,7 @@ I'm actively developing across multiple domains:
 
 ## 💼 Professional Background
 
-**Ex-Google Engineer (Xoogler)** with over a decade of hands-on experience ranging from IT support to cloud architecture. I bridge traditional infrastructure with modern development practices.
+**Experienced Developer and IT Professional** with over a decade of hands-on experience ranging from IT support to cloud architecture. I bridge traditional infrastructure with modern development practices.
 
 ### Education
 * **B.S. Computer Science** (2017) - East Stroudsburg University

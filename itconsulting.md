@@ -1,8 +1,8 @@
 # IT Consulting Services
 
-**Bringing Google-level expertise to your technical challenges**
+**Bringing enterprise-level expertise to your technical challenges**
 
-*PowerOnPC LLC • Over a decade of proven results • Ex-Google Engineer*
+*PowerOnPC LLC • Over a decade of proven results • Certified Cloud Engineer*
 
 ---
 
@@ -22,7 +22,7 @@
 - **Migration Planning** - On-premise to cloud transitions with minimal downtime
 - **Cost Optimization** - Right-sizing resources and implementing best practices
 
-*Drawing from hands-on Google experience and real-world implementations*
+*Drawing from hands-on cloud experience and real-world implementations*
 
 ### **Game Development Consulting**
 - **GameMaker Studio 2** - Complete game development pipeline
@@ -94,13 +94,13 @@
 ## 💡 Why Choose Colin Burke Consulting?
 
 ### **Proven Track Record**
-- **Google Engineering Experience** - Enterprise-level problem solving
+- **Enterprise Engineering Experience** - Large-scale problem solving
 - **65+ Active Repositories** - Demonstrable coding expertise  
 - **10+ Years in Business** - PowerOnPC LLC established track record
 - **Education & Certifications** - Computer Science, Security, Cloud Engineering
 
 ### **Real-World Experience**
-- **High-Profile Clients** - Google, Princeton University
+- **High-Profile Clients** - Princeton University and enterprise organizations
 - **Active Development** - Currently building multiple projects
 - **Open Source Contributor** - Community-recognized work (150+ GitHub stars)
 - **Problem Solver** - "Edge-case person" who tackles unusual challenges
@@ -153,7 +153,7 @@ Evolved **PyMusicGen** from desktop application to web-based music generation pl
 
 ## 💬 Client Testimonials
 
-*"Colin's ability to understand complex requirements and deliver elegant solutions is outstanding. His Google background really shows in the quality of his work."*
+*"Colin's ability to understand complex requirements and deliver elegant solutions is outstanding. His enterprise background really shows in the quality of his work."*
 
 *"The automation scripts Colin built have saved us hours every week. The investment paid for itself within the first month."*
 
@@ -187,7 +187,7 @@ Please include:
 ## 🎖️ Credentials & Experience
 
 ### **Professional Background**
-- **Ex-Google Engineer** - Enterprise software development
+- **Enterprise Software Developer** - Large-scale software development
 - **PowerOnPC LLC** - 10+ years in business
 - **Princeton University** - Enterprise IT consulting
 
