@@ -1,319 +1,346 @@
-# Tech Blog
-
-*Development insights and problem-solving experiences*
-
+---
+layout: default
+title: "Tech Blog - Colin Burke"
+description: "Development insights, technical challenges, and implementation stories"
 ---
 
-## 🎮 Game Development
-
-### Building Game Client Simulators: Lessons from Steam-like Interface Design
-*January 2025*
-
-Creating a game client simulator that mimics popular platforms like Steam involves several architectural challenges:
-
-**Core Components:**
-- Game library management and metadata storage
-- Launch parameter handling and process management  
-- UI state management for different views (grid, list, details)
-- [Description needed] - What specific features were implemented?
-
-**Technologies:** GameMaker Studio 2, File I/O systems
-**Challenges:** [Description needed]
-
-[Screenshot needed]
-
----
-
-### Dragon Quest Style RPGs: Modern Takes on Classic Mechanics  
-*July 2025*
-
-Working on **Wyrm Warrior** has taught me about balancing nostalgia with modern game design expectations:
-
-**Key Design Decisions:**
-- Turn-based combat with quality-of-life improvements
-- Classic progression systems with transparent mechanics
-- [Description needed] - What specific features differentiate it?
-
-**Technical Implementation:**
-- State machines for battle flow
-- Data-driven character and monster stats
-- [Description needed]
-
-[Screenshot needed]
-
----
-
-### Game Maker Language: Advanced Patterns and Performance
-*Ongoing*
-
-After building multiple games in GML, here are some patterns I've developed:
-
-**Performance Optimizations:**
-```gml
-// Example code snippet needed
-[Code example needed]
-```
-
-**State Management:**
-```gml
-// Example state management pattern
-[Code example needed]
-```
-
----
-
-## 🎵 Music Technology & Audio Processing
-
-### Evolving PyMusicGen: From Desktop to Web
-*June 2025*
-
-The journey from PyMusicGen v1 to v3 represents a complete architectural evolution:
-
-**Version 1 (2021):** Desktop Python script with basic MIDI generation
-**Version 2 (2021):** Qt interface with improved algorithms  
-**Version 3 (2025):** Web-based interface with [Description needed]
-
-**Technical Challenges in v3:**
-- Migrating audio processing to web environment
-- Real-time generation and playback
-- [Description needed]
-
-**Architecture:**
-```python
-# Example of music generation algorithm
-[Code example needed]
-```
-
-[Screenshot needed]
-
----
-
-### Audio Fidelity Manipulation: Building DeFidelity
-*November 2024*
-
-**DeFidelity** processes WAV files recursively to create lo-fi versions. The technical challenge was maintaining audio quality while systematically reducing fidelity.
-
-**Algorithm Approach:**
-```python
-# Example of fidelity reduction process
-[Code example needed]
-```
-
-**Key Features:**
-- Batch processing with directory recursion
-- Configurable quality reduction parameters
-- [Description needed]
-
-[🔗 Source Code](https://github.com/crawsome/DeFidelity)
-
----
-
-### Xbox Controller + SNES Audio: The Orchestroller Project
-*December 2024*
-
-**Orchestroller** bridges modern gaming hardware with retro audio samples. The project maps Xbox controller inputs to classic SNES sounds.
-
-**Technical Implementation:**
-- GameMaker controller input handling
-- Audio sample management and triggering
-- [Description needed]
-
-**Challenges:**
-- Input latency minimization
-- Sample organization and mapping
-- [Description needed]
-
-[Screenshot needed]
-
----
-
-## 🐍 Python Development
-
-### Flask Web Applications: Image Directory Browsing
-*June 2025*
-
-Building a **Flask-based image viewer** for local directory browsing presented interesting challenges:
-
-**Core Features:**
-- Recursive directory traversal
-- Thumbnail generation and caching
-- [Description needed]
-
-**Technical Architecture:**
-```python
-# Example Flask route structure
-[Code example needed]
-```
-
-**Performance Considerations:**
-- Lazy loading for large image collections
-- Caching strategies for thumbnails
-- [Description needed]
-
-[Screenshot needed]
-
----
-
-### Advanced String Processing: Puncreator's Phonetic Analysis
-*November 2021*
-
-**Puncreator** generates puns by analyzing both literal letter patterns and phonetic pronunciation:
-
-**Algorithm Overview:**
-1. Phonetic decomposition using [Description needed]
-2. Letter intersection analysis
-3. Pun generation and scoring
-
-**Technical Implementation:**
-```python
-# Example of phonetic analysis
-[Code example needed]
-```
-
-**Challenges:**
-- Phonetic accuracy across different languages
-- Scoring system for pun quality
-- [Description needed]
-
----
-
-### PyRPG Mini: CSV-Driven Game Design
-*Maintained since 2022*
-
-One of my most popular projects (65⭐) demonstrates data-driven game development:
-
-**Architecture Benefits:**
-- Game content completely customizable via CSV files
-- Non-programmers can modify game data
-- Easy localization and content variation
-
-**CSV Structure:**
-```csv
-# Example game data structure
-[CSV example needed]
-```
-
-**Code Architecture:**
-```python
-# Example of CSV data loading
-[Code example needed]
-```
-
-[🔗 Source Code](https://github.com/crawsome/PyRPG_Mini)
-
----
-
-## 📱 iOS Development
-
-### Swift Teleprompter: TextGoUp Insights
-*May 2025*
-
-Building **TextGoUp** taught me about iOS text handling and display optimization:
-
-**Key Features:**
-- [Description needed]
-- Smooth scrolling performance
-- [Description needed]
-
-**Swift Implementation Highlights:**
-```swift
-// Example Swift code
-[Code example needed]
-```
-
-**Challenges:**
-- Text rendering performance
-- [Description needed]
-
-[Screenshot needed]
-
----
-
-## ☁️ Cloud & Infrastructure
-
-### Google Cloud Insights: From Certification to Practice
-*Based on ACE certification and cloud experience*
-
-My GCP certification and cloud experience provided insights into:
-
-**Architecture Patterns:**
-- Microservices deployment strategies
-- Cost optimization techniques
-- [Description needed]
-
-**Migration Strategies:**
-- On-premise to cloud transitions
-- [Description needed]
-
-**Best Practices:**
-- Security implementation
-- Monitoring and logging
-- [Description needed]
-
----
-
-## 🛠️ Development Tools & Automation
-
-### PNG Processing Automation
-*July 2025*
-
-**PNGPaletteSwap** automates color palette modifications:
-
-**Technical Approach:**
-- [Description needed]
-- Batch processing capabilities
-- [Description needed]
-
-```python
-# Example processing code
-[Code example needed]
-```
-
----
-
-### Git Workflow Optimization
-*December 2022*
-
-Created a personal Git cheat sheet after navigating complex workflows:
-
-**Advanced Git Patterns:**
-- [Description needed]
-- Merge conflict resolution strategies
-- [Description needed]
-
-[🔗 Git Cheat Sheet](https://github.com/crawsome/gitcheetsheet)
-
----
-
-## 💡 Development Philosophy
-
-### Learning Through Building
-
-Every project teaches something new. My approach:
-
-1. **Start with a problem** - Real needs drive better solutions
-2. **Prototype quickly** - Get something working, then iterate
-3. **Document learnings** - Knowledge sharing benefits everyone
-4. **Open source when possible** - Community improvement
-
-### Edge Case Expertise
-
-I'm an "edge-case person" who encounters unusual problems. This perspective helps me:
-- Build more robust error handling
-- Consider unusual use cases
-- Create tools for niche problems that others haven't solved
-
----
-
-*Want to discuss any of these topics in detail? [Get in touch!](./aboutme.md)*
-
----
-
-## Recent Posts
-
-- **Game Client Simulator Insights** - January 2025
-- **PyMusicGen v3 Architecture** - June 2025  
-- **DeFidelity Audio Processing** - November 2024
-- **Dragon Quest Style Design** - July 2025
-
-*Subscribe to updates via [GitHub](https://github.com/crawsome) or [RSS feed needed]*
+<nav class="top-nav">
+  <div class="nav-container">
+    <a href="/" class="logo">Colin Burke</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/games.html">Games</a>
+      <a href="/projects.html">Projects</a>
+      <a href="/techblog.html" class="active">Tech Blog</a>
+      <a href="/aboutme.html">About</a>
+      <a href="/itconsulting.html">Hire Me</a>
+    </div>
+    <button class="mobile-menu-toggle">☰</button>
+  </div>
+</nav>
+
+<div class="main-content">
+  <div style="text-align: center; margin: 1rem 0;">
+    <h1>Tech Blog</h1>
+    <p style="font-size: 1.1rem; color: var(--dark-grey); margin-bottom: 1rem;">Development insights, implementation stories, and technical deep-dives from real projects.</p>
+  </div>
+
+  <div class="nav-links">
+    <a href="/portfolio.html">📁 Visual Portfolio</a>
+    <a href="/games.html">🎮 Critacle Games</a>
+    <a href="/projects.html">🔧 All Projects</a>
+    <a href="/aboutme.html">👨‍💻 About Me</a>
+    <a href="/itconsulting.html">💼 Work Together</a>
+  </div>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>🎮 Game Development</h2>
+
+    <div class="project-card">
+      <h3>Building Game Client Simulators: Lessons from Steam-like Interface Design</h3>
+      <p><em>January 2025</em></p>
+      <p>Creating a game client simulator that mimics popular platforms like Steam involves several architectural challenges:</p>
+      <ul>
+        <li><strong>Core Components:</strong> Game library management and metadata storage</li>
+        <li><strong>Launch parameter handling:</strong> Process management and user customization</li>
+        <li><strong>UI state management:</strong> Different views (grid, list, details)</li>
+      </ul>
+      <div class="project-meta">
+        <span>GameMaker Studio 2</span>
+        <span>File I/O systems</span>
+        <span>UI Design</span>
+        <span>Critacle Games</span>
+      </div>
+      <div class="project-links">
+        <a href="/games.html">View on Critacle Games</a>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Dragon Quest Style RPGs: Modern Takes on Classic Mechanics</h3>
+      <p><em>July 2025</em></p>
+      <p>Working on <strong>Wyrm Warrior</strong> has taught me about balancing nostalgia with modern game design expectations:</p>
+      <ul>
+        <li><strong>Turn-based combat:</strong> Quality-of-life improvements while maintaining classic feel</li>
+        <li><strong>Classic progression:</strong> Transparent mechanics that players can understand</li>
+        <li><strong>State machines:</strong> Battle flow and character progression management</li>
+      </ul>
+      <div class="project-meta">
+        <span>GameMaker Studio 2</span>
+        <span>RPG Design</span>
+        <span>Game Balance</span>
+        <span>Critacle Games</span>
+      </div>
+      <div class="project-links">
+        <a href="/games.html">View on Critacle Games</a>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Game Maker Language: Advanced Patterns and Performance</h3>
+      <p><em>Ongoing</em></p>
+      <p>After building multiple games in GML, here are some patterns I've developed for better performance and maintainability:</p>
+      <ul>
+        <li><strong>Performance Optimizations:</strong> Efficient draw calls and memory management</li>
+        <li><strong>State Management:</strong> Clean patterns for complex game state handling</li>
+        <li><strong>Code Organization:</strong> Modular approaches for larger projects</li>
+      </ul>
+      <div class="project-meta">
+        <span>GameMaker Language</span>
+        <span>Performance</span>
+        <span>Best Practices</span>
+        <span>Architecture</span>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>🎵 Music Technology & Audio Processing</h2>
+
+    <div class="project-card">
+      <h3>Evolving PyMusicGen: From Desktop to Web</h3>
+      <p><em>June 2025</em></p>
+      <p>The journey from PyMusicGen v1 to v3 represents a complete architectural evolution:</p>
+      <ul>
+        <li><strong>Version 1 (2021):</strong> Desktop Python script with basic MIDI generation</li>
+        <li><strong>Version 2 (2021):</strong> Qt interface with improved algorithms</li>
+        <li><strong>Version 3 (2025):</strong> Web-based interface with real-time generation</li>
+      </ul>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>Flask</span>
+        <span>Audio Processing</span>
+        <span>Web Development</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Audio Fidelity Manipulation: Building DeFidelity</h3>
+      <p><em>November 2024</em></p>
+      <p><strong>DeFidelity</strong> processes WAV files recursively to create lo-fi versions. The technical challenge was maintaining audio quality while systematically reducing fidelity.</p>
+      <ul>
+        <li><strong>Batch processing:</strong> Directory recursion and automated processing</li>
+        <li><strong>Quality parameters:</strong> Configurable reduction settings</li>
+        <li><strong>Performance:</strong> Efficient processing of large audio libraries</li>
+      </ul>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>Audio Processing</span>
+        <span>Batch Operations</span>
+        <span>Open Source</span>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/crawsome/DeFidelity" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Xbox Controller + SNES Audio: The Orchestroller Project</h3>
+      <p><em>December 2024</em></p>
+      <p><strong>Orchestroller</strong> bridges modern gaming hardware with retro audio samples, mapping Xbox controller inputs to classic SNES sounds.</p>
+      <ul>
+        <li><strong>Input handling:</strong> GameMaker controller integration</li>
+        <li><strong>Audio management:</strong> Sample organization and triggering</li>
+        <li><strong>Latency optimization:</strong> Real-time audio responsiveness</li>
+      </ul>
+      <div class="project-meta">
+        <span>GameMaker Studio 2</span>
+        <span>Audio Processing</span>
+        <span>Hardware Integration</span>
+        <span>Critacle Games</span>
+      </div>
+      <div class="project-links">
+        <a href="/games.html">View on Critacle Games</a>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>🐍 Python Development</h2>
+
+    <div class="project-card">
+      <h3>Flask Web Applications: Image Directory Browsing</h3>
+      <p><em>June 2025</em></p>
+      <p>Building a <strong>Flask-based image viewer</strong> for local directory browsing presented interesting challenges:</p>
+      <ul>
+        <li><strong>Directory traversal:</strong> Recursive navigation and file filtering</li>
+        <li><strong>Thumbnail generation:</strong> Caching and performance optimization</li>
+        <li><strong>Lazy loading:</strong> Efficient handling of large image collections</li>
+      </ul>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>Flask</span>
+        <span>Web Development</span>
+        <span>Image Processing</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Advanced String Processing: Puncreator's Phonetic Analysis</h3>
+      <p><em>November 2021</em></p>
+      <p><strong>Puncreator</strong> generates puns by analyzing both literal letter patterns and phonetic pronunciation:</p>
+      <ul>
+        <li><strong>Phonetic decomposition:</strong> Advanced language processing</li>
+        <li><strong>Letter intersection:</strong> Pattern matching algorithms</li>
+        <li><strong>Pun generation:</strong> Quality scoring and ranking systems</li>
+      </ul>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>NLP</span>
+        <span>Phonetic Analysis</span>
+        <span>Computational Linguistics</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>PyRPG Mini: CSV-Driven Game Design</h3>
+      <p><em>Maintained since 2022</em></p>
+      <p>One of my most popular projects (65⭐) demonstrates data-driven game development:</p>
+      <ul>
+        <li><strong>CSV architecture:</strong> Game content completely customizable via CSV files</li>
+        <li><strong>Non-programmer friendly:</strong> Easy content modification without coding</li>
+        <li><strong>Localization:</strong> Easy translation and content variation</li>
+      </ul>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>Game Development</span>
+        <span>Data-Driven Design</span>
+        <span>65⭐ GitHub</span>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/crawsome/PyRPG_Mini" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>📱 iOS Development</h2>
+
+    <div class="project-card">
+      <h3>Swift Teleprompter: TextGoUp Insights</h3>
+      <p><em>May 2025</em></p>
+      <p>Building <strong>TextGoUp</strong> taught me about iOS text handling and display optimization:</p>
+      <ul>
+        <li><strong>Text rendering:</strong> Performance optimization for smooth scrolling</li>
+        <li><strong>Interface design:</strong> Clean, distraction-free user experience</li>
+        <li><strong>Memory management:</strong> Efficient handling of large text documents</li>
+      </ul>
+      <div class="project-meta">
+        <span>Swift</span>
+        <span>iOS Development</span>
+        <span>Text Processing</span>
+        <span>UI Design</span>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>☁️ Cloud & Infrastructure</h2>
+
+    <div class="project-card">
+      <h3>Google Cloud Insights: From Certification to Practice</h3>
+      <p><em>Based on ACE certification and cloud experience</em></p>
+      <p>My GCP certification and cloud experience provided insights into:</p>
+      <ul>
+        <li><strong>Architecture patterns:</strong> Microservices deployment strategies</li>
+        <li><strong>Cost optimization:</strong> Efficient resource management</li>
+        <li><strong>Migration strategies:</strong> On-premise to cloud transitions</li>
+        <li><strong>Best practices:</strong> Security implementation and monitoring</li>
+      </ul>
+      <div class="project-meta">
+        <span>Google Cloud Platform</span>
+        <span>Cloud Architecture</span>
+        <span>Migration</span>
+        <span>Cost Optimization</span>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>🛠️ Development Tools & Automation</h2>
+
+    <div class="project-card">
+      <h3>PNG Processing Automation</h3>
+      <p><em>July 2025</em></p>
+      <p><strong>PNGPaletteSwap</strong> automates color palette modifications with batch processing capabilities for efficient image workflow management.</p>
+      <div class="project-meta">
+        <span>Python</span>
+        <span>Image Processing</span>
+        <span>Automation</span>
+        <span>Batch Operations</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Git Workflow Optimization</h3>
+      <p><em>December 2022</em></p>
+      <p>Created a personal Git cheat sheet after navigating complex workflows with advanced patterns and conflict resolution strategies.</p>
+      <div class="project-meta">
+        <span>Git</span>
+        <span>Version Control</span>
+        <span>Workflow</span>
+        <span>Documentation</span>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/crawsome/gitcheetsheet" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>💡 Development Philosophy</h2>
+
+    <div class="project-card">
+      <h3>Learning Through Building</h3>
+      <p>Every project teaches something new. My approach:</p>
+      <ul>
+        <li><strong>Start with a problem:</strong> Real needs drive better solutions</li>
+        <li><strong>Prototype quickly:</strong> Get something working, then iterate</li>
+        <li><strong>Document learnings:</strong> Knowledge sharing benefits everyone</li>
+        <li><strong>Open source when possible:</strong> Community improvement</li>
+      </ul>
+      <div class="project-meta">
+        <span>Philosophy</span>
+        <span>Learning</span>
+        <span>Open Source</span>
+        <span>Community</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <h3>Edge Case Expertise</h3>
+      <p>I'm an "edge-case person" who encounters unusual problems. This perspective helps me:</p>
+      <ul>
+        <li><strong>Robust error handling:</strong> Building for unexpected scenarios</li>
+        <li><strong>Unusual use cases:</strong> Considering non-standard applications</li>
+        <li><strong>Niche solutions:</strong> Creating tools for problems others haven't solved</li>
+      </ul>
+      <div class="project-meta">
+        <span>Problem Solving</span>
+        <span>Edge Cases</span>
+        <span>Robust Design</span>
+        <span>Innovation</span>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 1.5rem 0;">
+    <h2>📈 Recent Posts</h2>
+    <div style="text-align: center; margin: 1rem 0; padding: 1rem; background: var(--light-grey); border-radius: 4px; border: 1px solid var(--border-grey);">
+      <p style="font-size: 1rem; margin: 0; font-weight: 600;">
+        <strong>Game Client Simulator Insights</strong> • <strong>PyMusicGen v3 Architecture</strong> • <strong>DeFidelity Audio Processing</strong>
+      </p>
+    </div>
+  </section>
+
+  <div class="cta-section">
+    <h2>Want to Discuss These Topics?</h2>
+    <p>Interested in implementation details, technical challenges, or collaboration opportunities? Let's connect and explore these ideas together.</p>
+    <div class="cta-buttons">
+      <a href="/projects.html" class="primary">View All Projects</a>
+      <a href="/aboutme.html" class="secondary">Get in Touch</a>
+    </div>
+  </div>
+
+</div>

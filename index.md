@@ -4,6 +4,22 @@ title: "Colin Burke - Developer & Consultant"
 description: "Experienced developer specializing in Python development, game creation, and music technology."
 ---
 
+<nav class="top-nav">
+  <div class="nav-container">
+    <a href="/" class="logo">Colin Burke</a>
+    <div class="nav-links">
+      <a href="/" class="active">Home</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/games.html">Games</a>
+      <a href="/projects.html">Projects</a>
+      <a href="/techblog.html">Tech Blog</a>
+      <a href="/aboutme.html">About</a>
+      <a href="/itconsulting.html">Hire Me</a>
+    </div>
+    <button class="mobile-menu-toggle">☰</button>
+  </div>
+</nav>
+
 <div class="main-content">
   <div style="text-align: center; margin: 1rem 0; padding: 1rem;">
     <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: var(--primary-blue);">Colin Burke</h1>
@@ -18,6 +34,7 @@ description: "Experienced developer specializing in Python development, game cre
 
   <div class="nav-links">
     <a href="/portfolio.html">📁 Portfolio</a>
+    <a href="/games.html">🎮 Games</a>
     <a href="/projects.html">🔧 All Projects</a>
     <a href="/techblog.html">📝 Tech Blog</a>
     <a href="/aboutme.html">👨‍💻 About Me</a>
@@ -36,6 +53,15 @@ description: "Experienced developer specializing in Python development, game cre
   <section style="margin: 1.5rem 0;">
     <h2>🔗 Explore My Work</h2>
     <div class="portfolio-grid">
+      <div class="portfolio-item">
+        <img src="./assets/img/projects.png" alt="Critacle Games" class="project-image">
+        <h3>🎮 Critacle Games</h3>
+        <p class="project-description">Gaming division creating immersive experiences from RPGs to music games. Play on Itch.io and GX.games platforms.</p>
+        <div class="project-links">
+          <a href="./games.html">Explore Games</a>
+        </div>
+      </div>
+
       <div class="portfolio-item">
         <img src="./assets/img/projects.png" alt="All Projects" class="project-image">
         <h3>Browse All Projects</h3>

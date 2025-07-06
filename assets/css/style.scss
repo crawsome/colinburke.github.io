@@ -39,6 +39,77 @@ a {
   }
 }
 
+// Top Navigation Bar
+.top-nav {
+  background: var(--white);
+  border-bottom: 1px solid var(--border-grey);
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  .nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    
+    .logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--primary-blue);
+      text-decoration: none;
+      
+      &:hover {
+        color: var(--light-blue);
+        text-decoration: none;
+      }
+    }
+    
+    .nav-links {
+      display: flex;
+      gap: 1rem;
+      
+      a {
+        color: var(--dark-grey);
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+        transition: all 0.2s ease;
+        
+        &:hover {
+          background-color: var(--light-blue);
+          color: var(--white);
+          text-decoration: none;
+        }
+        
+        &.active {
+          background-color: var(--primary-blue);
+          color: var(--white);
+        }
+      }
+    }
+    
+    .mobile-menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      color: var(--primary-blue);
+      cursor: pointer;
+      
+      &:hover {
+        color: var(--light-blue);
+      }
+    }
+  }
+}
+
 // Header styling
 .page-header {
   background: linear-gradient(135deg, var(--primary-blue) 0%, var(--light-blue) 100%);
@@ -399,6 +470,18 @@ a {
 
 // Responsive design
 @media (max-width: 768px) {
+  .top-nav {
+    .nav-container {
+      .nav-links {
+        display: none;
+      }
+      
+      .mobile-menu-toggle {
+        display: block;
+      }
+    }
+  }
+  
   .portfolio-grid {
     grid-template-columns: 1fr;
     gap: 0.75rem;
