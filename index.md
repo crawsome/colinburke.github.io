@@ -5,14 +5,14 @@ description: "Experienced developer specializing in Python development, game cre
 ---
 
 <div class="main-content">
-  <div class="hero-section" style="text-align: center; margin: 3rem 0; padding: 2rem;">
-    <h1 style="font-size: 3rem; margin-bottom: 1rem; color: var(--primary-blue);">Colin Burke</h1>
-    <p style="font-size: 1.5rem; color: var(--dark-grey); margin-bottom: 2rem; font-style: italic;">Bringing ideas to life through learning and experimentation</p>
-    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
-      <span style="background: var(--light-blue); color: white; padding: 0.75rem 1.25rem; border-radius: 25px; font-weight: 600; font-size: 1rem;">Python Specialist</span>
-      <span style="background: var(--light-blue); color: white; padding: 0.75rem 1.25rem; border-radius: 25px; font-weight: 600; font-size: 1rem;">Game Developer</span>
-      <span style="background: var(--light-blue); color: white; padding: 0.75rem 1.25rem; border-radius: 25px; font-weight: 600; font-size: 1rem;">Music Technology</span>
-      <span style="background: var(--light-blue); color: white; padding: 0.75rem 1.25rem; border-radius: 25px; font-weight: 600; font-size: 1rem;">Cloud Engineer</span>
+  <div style="text-align: center; margin: 1rem 0; padding: 1rem;">
+    <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: var(--primary-blue);">Colin Burke</h1>
+    <p style="font-size: 1.2rem; color: var(--dark-grey); margin-bottom: 1rem; font-style: italic;">Bringing ideas to life through learning and experimentation</p>
+    <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+      <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Python Specialist</span>
+      <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Game Developer</span>
+      <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Music Technology</span>
+      <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Cloud Engineer</span>
     </div>
   </div>
 
@@ -24,16 +24,16 @@ description: "Experienced developer specializing in Python development, game cre
     <a href="/itconsulting.html">💼 Hire Me</a>
   </div>
 
-  <section style="margin: 3rem 0;">
+  <section style="margin: 1.5rem 0;">
     <h2>🚀 What I'm Building</h2>
-    <p style="font-size: 1.2rem; margin-bottom: 2rem; color: var(--dark-grey);">Currently working on game development, music technology, and Python automation tools. Each project explores new challenges and learning opportunities.</p>
+    <p style="font-size: 1rem; margin-bottom: 1rem; color: var(--dark-grey);">Currently working on game development, music technology, and Python automation tools. Each project explores new challenges and learning opportunities.</p>
 
-    <div style="text-align: center; margin: 2rem 0; padding: 1.5rem; background: var(--light-grey); border-radius: 8px; border: 1px solid var(--border-grey);">
-      <p style="font-size: 1.2rem; margin: 0; font-weight: 600;"><strong>Active across multiple domains</strong> • <strong>Regular development</strong> • <strong>Open source contributor</strong></p>
+    <div style="text-align: center; margin: 1rem 0; padding: 1rem; background: var(--light-grey); border-radius: 4px; border: 1px solid var(--border-grey);">
+      <p style="font-size: 1rem; margin: 0; font-weight: 600;"><strong>Active across multiple domains</strong> • <strong>Regular development</strong> • <strong>Open source contributor</strong></p>
     </div>
   </section>
 
-  <section style="margin: 3rem 0;">
+  <section style="margin: 1.5rem 0;">
     <h2>🔗 Explore My Work</h2>
     <div class="portfolio-grid">
       <div class="portfolio-item">
@@ -74,7 +74,7 @@ description: "Experienced developer specializing in Python development, game cre
     </div>
   </section>
 
-  <section style="margin: 3rem 0;">
+  <section style="margin: 1.5rem 0;">
     <h2>🎨 My Focus Areas</h2>
     <div class="skills-grid">
       <div class="skill-category">
