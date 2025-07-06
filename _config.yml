@@ -1,1 +1,40 @@
 theme: jekyll-theme-time-machine
+
+# Site settings
+title: "Colin Burke - Developer & Consultant"
+description: "Ex-Google engineer specializing in Python development, game creation, and music technology. 65+ repositories of active development."
+author: "Colin Burke"
+url: "https://colinburke.com"
+
+# SEO and social
+twitter:
+  username: crawsome
+github:
+  username: crawsome
+linkedin:
+  username: colingburke
+
+# Additional metadata
+google_site_verification: # Add if needed
+lang: en_US
+
+# Navigation structure
+nav_links:
+  - title: "Projects"
+    url: "/projects.html"
+  - title: "Tech Blog" 
+    url: "/techblog.html"
+  - title: "About"
+    url: "/aboutme.html"
+  - title: "Consulting"
+    url: "/itconsulting.html"
+  - title: "Support"
+    url: "/contribute.html"
+
+# Analytics (add if needed)
+# google_analytics: 
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
