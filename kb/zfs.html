@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZFS Drive Replacement - Colin Burke</title>
+    <meta name="description" content="Guide for replacing a degraded ZFS drive.">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <div class="nav-container">
+            <a href="/" class="logo">Colin Burke</a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/portfolio.html">Portfolio</a>
+                <a href="/games.html">Games</a>
+                <a href="/projects.html">Projects</a>
+                <a href="/techblog.html">Tech Blog</a>
+                <a href="/aboutme.html">About</a>
+                <a href="/itconsulting.html">Hire Me</a>
+            </div>
+            <button class="mobile-menu-toggle">☰</button>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        <h1>Replacing a Degraded ZFS drive</h1>
+        <ol>
+            <li>Crystaldiskmark the new drive a couple times. Make sure it's consistent. Format it as ExFat to get rid of the NTFS</li>
+            <li>Take a picture of the new drive. Note the Serial # and the WWN.</li>
+            <li>Do a Zpool status on your zfs raid. Screenshot it. Note the degraded drive. That's your <strong>[OLD DRIVE ID]</strong></li>
+            <li>Shut down system (Unless hot-swappable). Replace old drive with new drive.</li>
+            <li>ls -al /dev/disk/by-id/ and find the new drive in the list by the WWN # you got from the hard drive.</li>
+            <li>Form the command below.</li>
+        </ol>
+        <p>Ultimately, the command is:</p>
+        <pre><code>sudo zpool replace zfs_32 [OLD DRIVE ID] [NEW DRIVE DEV ID] -f</code></pre>
+        <p>Warning: This command doesn't return anything at all. It may take a minute or two to actually finish executing though.</p>
+        <ul>
+            <li><strong>[OLD DRIVE ID]:</strong> 99208813077xxxxxxxx (from zpool status)</li>
+            <li><strong>[NEW DRIVE DEV ID]:</strong> ata-ST8000DM004-2CX188_ZCTxxxxx (from ls -al /dev/disk/by-id/)</li>
+        </ul>
+    </div>
+
+    <script src="/assets/js/nav.js"></script>
+</body>
+</html> 

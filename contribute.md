@@ -1,3 +1,25 @@
+---
+layout: default
+title: "Contribute - Colin Burke"
+description: "Support my open source work, creative projects, and technical content."
+---
+
+<nav class="top-nav">
+  <div class="nav-container">
+    <a href="/" class="logo">Colin Burke</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/games.html">Games</a>
+      <a href="/projects.html">Projects</a>
+      <a href="/techblog.html">Tech Blog</a>
+      <a href="/aboutme.html">About</a>
+      <a href="/itconsulting.html">Hire Me</a>
+    </div>
+    <button class="mobile-menu-toggle">☰</button>
+  </div>
+</nav>
+
 ## Support My Open Source Work
 
 *Help fund creative projects and continued development*

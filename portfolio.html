@@ -1,192 +1,182 @@
----
-layout: default
-title: "Portfolio - Colin Burke"
-description: "Visual showcase of my recent projects and technical work"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Colin Burke</title>
+    <meta name="description" content="Visual showcase of my recent projects and technical work">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <div class="nav-container">
+            <a href="/" class="logo">Colin Burke</a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/portfolio.html" class="active">Portfolio</a>
+                <a href="/games.html">Games</a>
+                <a href="/projects.html">Projects</a>
+                <a href="/techblog.html">Tech Blog</a>
+                <a href="/aboutme.html">About</a>
+                <a href="/itconsulting.html">Hire Me</a>
+            </div>
+            <button class="mobile-menu-toggle">☰</button>
+        </div>
+    </nav>
 
-<nav class="top-nav">
-  <div class="nav-container">
-    <a href="/" class="logo">Colin Burke</a>
-    <div class="nav-links">
-      <a href="/">Home</a>
-      <a href="/portfolio.html" class="active">Portfolio</a>
-      <a href="/games.html">Games</a>
-      <a href="/projects.html">Projects</a>
-      <a href="/techblog.html">Tech Blog</a>
-      <a href="/aboutme.html">About</a>
-      <a href="/itconsulting.html">Hire Me</a>
+    <div class="main-content">
+        <div style="text-align: center; margin: 1rem 0;">
+            <h1>Portfolio</h1>
+            <p style="font-size: 1.1rem; color: var(--dark-grey); margin-bottom: 1rem;">A visual showcase of my work across game development, music technology, and automation tools.</p>
+        </div>
+
+        <div class="nav-links">
+            <a href="/games.html">🎮 Critacle Games</a>
+            <a href="/projects.html">🔧 Technical Details</a>
+            <a href="/techblog.html">📝 Implementation Stories</a>
+            <a href="/aboutme.html">👨‍💻 About Me</a>
+            <a href="/itconsulting.html">💼 Work Together</a>
+        </div>
+
+        <section style="margin: 1.5rem 0;">
+            <h2>📁 Project Categories</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <img src="/assets/img/projects.png" alt="Game Development" class="project-image">
+                    <h3>Game Development</h3>
+                    <p class="project-description">Creating immersive gaming experiences with modern technologies. RPGs, game management tools, and interactive systems.</p>
+                    <div class="project-meta">
+                        <span>Python</span>
+                        <span>GameMaker</span>
+                        <span>Real-time Systems</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/games.html">Critacle Games</a>
+                        <a href="/projects.html#game-development">View Projects</a>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="/assets/img/techblog.png" alt="Music Technology" class="project-image">
+                    <h3>Music & Audio Technology</h3>
+                    <p class="project-description">Building tools for musicians and audio enthusiasts. AI music generation, audio processing, and creative applications.</p>
+                    <div class="project-meta">
+                        <span>Audio Processing</span>
+                        <span>Music Theory</span>
+                        <span>Python</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/projects.html#music-audio">View Projects</a>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="/assets/img/repo.png" alt="Automation" class="project-image">
+                    <h3>Automation & Scripts</h3>
+                    <p class="project-description">Streamlining workflows through intelligent automation. File processing, data manipulation, and productivity tools.</p>
+                    <div class="project-meta">
+                        <span>Automation</span>
+                        <span>Productivity</span>
+                        <span>Python</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/projects.html#automation">View Projects</a>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="/assets/img/about.png" alt="Web Development" class="project-image">
+                    <h3>Web Development</h3>
+                    <p class="project-description">Creating modern, responsive web applications and tools. Flask-based solutions with clean, functional design.</p>
+                    <div class="project-meta">
+                        <span>Flask</span>
+                        <span>Web Apps</span>
+                        <span>JavaScript</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/projects.html#web-development">View Projects</a>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="/assets/img/contribute.png" alt="IT Consulting" class="project-image">
+                    <h3>Professional Services</h3>
+                    <p class="project-description">Technical consulting and custom development solutions. Cloud architecture, automation, and enterprise solutions.</p>
+                    <div class="project-meta">
+                        <span>Consulting</span>
+                        <span>Cloud Solutions</span>
+                        <span>Architecture</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/itconsulting.html">Learn More</a>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="/assets/img/techblog.png" alt="Creative Work" class="project-image">
+                    <h3>Creative Projects</h3>
+                    <p class="project-description">Music transcriptions, experimental audio work, and creative coding projects that blend technology with artistry.</p>
+                    <div class="project-meta">
+                        <span>Music</span>
+                        <span>Creative Coding</span>
+                        <span>Audio Art</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="/aboutme.html#creative">Explore</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section style="margin: 1.5rem 0;">
+            <h2>🌟 Featured Projects</h2>
+            <div class="project-card">
+                <h3>Wyrm Warrior</h3>
+                <p>Dragon Quest-style RPG featuring classic turn-based mechanics with modern polish. Built in GameMaker Studio 2 with a focus on nostalgic gameplay and contemporary design principles.</p>
+                <div class="project-meta">
+                    <span>GameMaker Studio 2</span>
+                    <span>RPG Design</span>
+                    <span>2025</span>
+                    <span>Game Development</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <h3>PyMusicGen v3</h3>
+                <p>Web-based music generation platform with AI-powered compositions. Evolution from desktop application to full web platform with real-time generation capabilities.</p>
+                <div class="project-meta">
+                    <span>Python</span>
+                    <span>Web Platform</span>
+                    <span>AI Music</span>
+                    <span>Flask</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <h3>GuitarScaleChart</h3>
+                <p>Interactive guitar scale visualization for musicians learning theory. Popular educational tool with 65 GitHub stars, helping guitarists understand scales and modes.</p>
+                <div class="project-meta">
+                    <span>Music Education</span>
+                    <span>65⭐ GitHub</span>
+                    <span>Python/Tkinter</span>
+                    <span>Interactive</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <h3>Game Client Simulator</h3>
+                <p>Steam-like game management interface providing comprehensive tools for game library management, launch parameters, and process handling.</p>
+                <div class="project-meta">
+                    <span>GameMaker</span>
+                    <span>System Integration</span>
+                    <span>UI/UX Design</span>
+                    <span>File Management</span>
+                </div>
+            </div>
+        </section>
+
+        <div class="cta-section">
+            <h2>Want the Full Technical Details?</h2>
+            <p>Explore the complete project breakdowns, implementation stories, technical specifications, and development insights.</p>
+            <div class="cta-buttons">
+                <a href="/projects.html" class="primary">All Projects</a>
+                <a href="/techblog.html" class="secondary">Tech Blog</a>
+            </div>
+        </div>
     </div>
-    <button class="mobile-menu-toggle">☰</button>
-  </div>
-</nav>
 
-<div class="main-content">
-  <div style="text-align: center; margin: 1rem 0;">
-    <h1>Portfolio</h1>
-    <p style="font-size: 1.1rem; color: var(--dark-grey); margin-bottom: 1rem;">A visual showcase of my work across game development, music technology, and automation tools.</p>
-  </div>
-
-  <div class="nav-links">
-    <a href="/games.html">🎮 Critacle Games</a>
-    <a href="/projects.html">🔧 Technical Details</a>
-    <a href="/techblog.html">📝 Implementation Stories</a>
-    <a href="/aboutme.html">👨‍💻 About Me</a>
-    <a href="/itconsulting.html">💼 Work Together</a>
-  </div>
-
-  <section style="margin: 1.5rem 0;">
-    <h2>🎯 Project Categories</h2>
-    <div class="portfolio-grid">
-      
-      <!-- Game Development -->
-      <div class="portfolio-item">
-        <img src="/assets/img/projects.png" alt="Game Development" class="project-image">
-        <h3>Game Development</h3>
-        <p class="project-description">Creating immersive gaming experiences with modern technologies. RPGs, game management tools, and interactive systems.</p>
-        <div class="project-meta">
-          <span>Python</span>
-          <span>GameMaker</span>
-          <span>Real-time Systems</span>
-        </div>
-        <div class="project-links">
-          <a href="/games.html">Critacle Games</a>
-          <a href="/projects.html#game-development">View Projects</a>
-        </div>
-      </div>
-
-      <!-- Music & Audio Tools -->
-      <div class="portfolio-item">
-        <img src="/assets/img/techblog.png" alt="Music Technology" class="project-image">
-        <h3>Music & Audio Technology</h3>
-        <p class="project-description">Building tools for musicians and audio enthusiasts. AI music generation, audio processing, and creative applications.</p>
-        <div class="project-meta">
-          <span>Audio Processing</span>
-          <span>Music Theory</span>
-          <span>Python</span>
-        </div>
-        <div class="project-links">
-          <a href="/projects.html#music-audio">View Projects</a>
-        </div>
-      </div>
-
-      <!-- Automation & Scripts -->
-      <div class="portfolio-item">
-        <img src="/assets/img/repo.png" alt="Automation" class="project-image">
-        <h3>Automation & Scripts</h3>
-        <p class="project-description">Streamlining workflows through intelligent automation. File processing, data manipulation, and productivity tools.</p>
-        <div class="project-meta">
-          <span>Automation</span>
-          <span>Productivity</span>
-          <span>Python</span>
-        </div>
-        <div class="project-links">
-          <a href="/projects.html#automation">View Projects</a>
-        </div>
-      </div>
-
-      <!-- Web Development -->
-      <div class="portfolio-item">
-        <img src="/assets/img/about.png" alt="Web Development" class="project-image">
-        <h3>Web Development</h3>
-        <p class="project-description">Creating modern, responsive web applications and tools. Flask-based solutions with clean, functional design.</p>
-        <div class="project-meta">
-          <span>Flask</span>
-          <span>Web Apps</span>
-          <span>JavaScript</span>
-        </div>
-        <div class="project-links">
-          <a href="/projects.html#web-development">View Projects</a>
-        </div>
-      </div>
-
-      <!-- Professional Services -->
-      <div class="portfolio-item">
-        <img src="/assets/img/contribute.png" alt="IT Consulting" class="project-image">
-        <h3>Professional Services</h3>
-        <p class="project-description">Technical consulting and custom development solutions. Cloud architecture, automation, and enterprise solutions.</p>
-        <div class="project-meta">
-          <span>Consulting</span>
-          <span>Cloud Solutions</span>
-          <span>Architecture</span>
-        </div>
-        <div class="project-links">
-          <a href="/itconsulting.html">Learn More</a>
-        </div>
-      </div>
-
-      <!-- Creative Work -->
-      <div class="portfolio-item">
-        <img src="/assets/img/techblog.png" alt="Creative Work" class="project-image">
-        <h3>Creative Projects</h3>
-        <p class="project-description">Music transcriptions, experimental audio work, and creative coding projects that blend technology with artistry.</p>
-        <div class="project-meta">
-          <span>Music</span>
-          <span>Creative Coding</span>
-          <span>Audio Art</span>
-        </div>
-        <div class="project-links">
-          <a href="/aboutme.html#creative">Explore</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <section style="margin: 1.5rem 0;">
-    <h2>🌟 Featured Projects</h2>
-    
-    <div class="project-card">
-      <h3>Wyrm Warrior</h3>
-      <p>Dragon Quest-style RPG featuring classic turn-based mechanics with modern polish. Built in GameMaker Studio 2 with a focus on nostalgic gameplay and contemporary design principles.</p>
-      <div class="project-meta">
-        <span>GameMaker Studio 2</span>
-        <span>RPG Design</span>
-        <span>2025</span>
-        <span>Game Development</span>
-      </div>
-    </div>
-
-    <div class="project-card">
-      <h3>PyMusicGen v3</h3>
-      <p>Web-based music generation platform with AI-powered compositions. Evolution from desktop application to full web platform with real-time generation capabilities.</p>
-      <div class="project-meta">
-        <span>Python</span>
-        <span>Web Platform</span>
-        <span>AI Music</span>
-        <span>Flask</span>
-      </div>
-    </div>
-
-    <div class="project-card">
-      <h3>GuitarScaleChart</h3>
-      <p>Interactive guitar scale visualization for musicians learning theory. Popular educational tool with 65 GitHub stars, helping guitarists understand scales and modes.</p>
-      <div class="project-meta">
-        <span>Music Education</span>
-        <span>65⭐ GitHub</span>
-        <span>Python/Tkinter</span>
-        <span>Interactive</span>
-      </div>
-    </div>
-
-    <div class="project-card">
-      <h3>Game Client Simulator</h3>
-      <p>Steam-like game management interface providing comprehensive tools for game library management, launch parameters, and process handling.</p>
-      <div class="project-meta">
-        <span>GameMaker</span>
-        <span>System Integration</span>
-        <span>UI/UX Design</span>
-        <span>File Management</span>
-      </div>
-    </div>
-  </section>
-
-  <div class="cta-section">
-    <h2>Want the Full Technical Details?</h2>
-    <p>Explore the complete project breakdowns, implementation stories, technical specifications, and development insights.</p>
-    <div class="cta-buttons">
-      <a href="/projects.html" class="primary">All Projects</a>
-      <a href="/techblog.html" class="secondary">Tech Blog</a>
-    </div>
-  </div>
-
-</div> 
+    <script src="/assets/js/nav.js"></script>
+</body>
+</html> 
