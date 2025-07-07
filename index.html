@@ -6,6 +6,7 @@
     <title>Colin Burke - Developer & Consultant</title>
     <meta name="description" content="Experienced developer specializing in Python development, game creation, and music technology.">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="top-nav">
@@ -24,37 +25,73 @@
         </div>
     </nav>
 
+    <div class="mobile-nav" id="mobileNav">
+        <div class="mobile-nav-links">
+            <a href="/" class="active">Home</a>
+            <a href="/portfolio.html">Portfolio</a>
+            <a href="/games.html">Games</a>
+            <a href="/projects.html">Projects</a>
+            <a href="/techblog.html">Tech Blog</a>
+            <a href="/aboutme.html">About</a>
+            <a href="/itconsulting.html">Hire Me</a>
+        </div>
+    </div>
+
     <div class="main-content">
-        <div style="text-align: center; margin: 1rem 0; padding: 1rem;">
-            <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: var(--primary-blue);">Colin Burke</h1>
-            <p style="font-size: 1.2rem; color: var(--dark-grey); margin-bottom: 1rem; font-style: italic;">Developer, consultant, and problem solver</p>
-            <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
-                <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Python Specialist</span>
-                <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">AI Consulting</span>
-                <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Small Business</span>
-                <span style="background: var(--light-blue); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-weight: 600; font-size: 0.9rem;">Cloud Engineer</span>
+        <div class="hero-section">
+            <h1>Colin Burke</h1>
+            <p class="hero-subtitle">Developer, consultant, and problem solver</p>
+            <div class="hero-tags">
+                <span class="tag">Python Specialist</span>
+                <span class="tag">AI Consulting</span>
+                <span class="tag">Small Business</span>
+                <span class="tag">Cloud Engineer</span>
             </div>
         </div>
 
-        <div class="nav-links">
-            <a href="/portfolio.html">📁 Portfolio</a>
-            <a href="/games.html">🎮 Games</a>
-            <a href="/projects.html">🔧 All Projects</a>
-            <a href="/techblog.html">📝 Tech Blog</a>
-            <a href="/aboutme.html">👨‍💻 About Me</a>
-            <a href="/itconsulting.html">💼 Hire Me</a>
+        <div class="quick-nav">
+            <a href="/portfolio.html" class="quick-nav-item">
+                <span class="quick-nav-icon">📁</span>
+                <div class="quick-nav-title">Portfolio</div>
+                <div class="quick-nav-desc">View my latest work and projects</div>
+            </a>
+            <a href="/games.html" class="quick-nav-item">
+                <span class="quick-nav-icon">🎮</span>
+                <div class="quick-nav-title">Games</div>
+                <div class="quick-nav-desc">Play my Critacle Games creations</div>
+            </a>
+            <a href="/projects.html" class="quick-nav-item">
+                <span class="quick-nav-icon">🔧</span>
+                <div class="quick-nav-title">All Projects</div>
+                <div class="quick-nav-desc">Complete project showcase</div>
+            </a>
+            <a href="/techblog.html" class="quick-nav-item">
+                <span class="quick-nav-icon">📝</span>
+                <div class="quick-nav-title">Tech Blog</div>
+                <div class="quick-nav-desc">Technical insights and tutorials</div>
+            </a>
+            <a href="/aboutme.html" class="quick-nav-item">
+                <span class="quick-nav-icon">👨‍💻</span>
+                <div class="quick-nav-title">About Me</div>
+                <div class="quick-nav-desc">Learn about my background</div>
+            </a>
+            <a href="/itconsulting.html" class="quick-nav-item">
+                <span class="quick-nav-icon">💼</span>
+                <div class="quick-nav-title">Hire Me</div>
+                <div class="quick-nav-desc">Let's work together</div>
+            </a>
         </div>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>What I Do</h2>
             <p>I solve technical problems that others can't. With over a decade of experience in IT, management, and development, I bridge the gap between business needs and technical solutions.</p>
             
-            <div style="text-align: center; margin: 1rem 0; padding: 1rem; background: var(--light-grey); border-radius: 4px; border: 1px solid var(--border-grey);">
-                <p style="font-size: 1rem; margin: 0; font-weight: 600;"><strong>PowerOnPC LLC</strong> • <strong>Certified Cloud Engineer</strong> • <strong>Management Experience</strong></p>
+            <div style="text-align: center; margin: 2rem 0; padding: 1.5rem; background: var(--light-grey); border-radius: 12px; border: 1px solid var(--border-grey); box-shadow: var(--shadow-sm);">
+                <p style="font-size: 1.125rem; margin: 0; font-weight: 600; color: var(--primary-blue);"><strong>PowerOnPC LLC</strong> • <strong>Certified Cloud Engineer</strong> • <strong>Management Experience</strong></p>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Services</h2>
             <div class="portfolio-grid">
                 <div class="portfolio-item">
@@ -95,7 +132,7 @@
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Background</h2>
             <div class="skills-grid">
                 <div class="skill-category">
