@@ -177,6 +177,34 @@ body {
   }
 }
 
+// Nav button improvements
+.nav-links .btn.btn-ghost {
+  font-size: 1.1rem;
+  padding: 0.5rem 1.5rem;
+  margin: 0 0.25rem;
+  border: 1px solid var(--gray-400);
+  background: transparent;
+  color: var(--primary);
+  border-radius: var(--radius-lg);
+  box-shadow: none;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  font-weight: 500;
+}
+
+.nav-links .btn.btn-ghost.active,
+.nav-links .btn.btn-ghost:hover {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
+// Hide mobile menu button on desktop
+@media (min-width: 900px) {
+  .mobile-menu-toggle {
+    display: none !important;
+  }
+}
+
 // Mobile navigation overlay
 .mobile-nav {
   display: none;
