@@ -6,6 +6,7 @@
     <title>Projects - Colin Burke</title>
     <meta name="description" content="Detailed technical breakdown of my recent development projects">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="top-nav">
@@ -24,21 +25,25 @@
         </div>
     </nav>
 
+    <div class="mobile-nav" id="mobileNav">
+        <div class="mobile-nav-links">
+            <a href="/">Home</a>
+            <a href="/portfolio.html">Portfolio</a>
+            <a href="/games.html">Games</a>
+            <a href="/projects.html" class="active">Projects</a>
+            <a href="/techblog.html">Tech Blog</a>
+            <a href="/aboutme.html">About</a>
+            <a href="/itconsulting.html">Hire Me</a>
+        </div>
+    </div>
+
     <div class="main-content">
-        <div style="text-align: center; margin: 1rem 0;">
+        <div class="hero-section">
             <h1>Projects</h1>
-            <p style="font-size: 1.1rem; color: var(--dark-grey); margin-bottom: 1rem;">Deep dive into my technical work, implementation details, and development insights.</p>
+            <p class="hero-subtitle">Deep dive into my technical work, implementation details, and development insights.</p>
         </div>
 
-        <div class="nav-links">
-            <a href="/portfolio.html">📁 Visual Portfolio</a>
-            <a href="/games.html">🎮 Critacle Games</a>
-            <a href="/techblog.html">📝 Implementation Stories</a>
-            <a href="/aboutme.html">👨‍💻 About Me</a>
-            <a href="/itconsulting.html">💼 Work Together</a>
-        </div>
-
-        <section style="margin: 1.5rem 0;" id="game-development">
+        <section id="game-development">
             <h2>🎮 Game Development (Critacle Games)</h2>
             
             <div class="project-card">
@@ -51,8 +56,8 @@
                     <span>Work in Progress</span>
                 </div>
                 <div class="project-links">
-                    <a href="/games.html">View on Critacle Games</a>
-                    <a href="https://critacle.itch.io/wyrm-warrior" target="_blank">Play on Itch.io</a>
+                    <a href="/games.html" class="btn btn-primary">View on Critacle Games</a>
+                    <a href="https://critacle.itch.io/wyrm-warrior" target="_blank" class="btn btn-secondary">Play on Itch.io</a>
                 </div>
             </div>
 
@@ -66,8 +71,8 @@
                     <span>Recently Updated</span>
                 </div>
                 <div class="project-links">
-                    <a href="/games.html">View on Critacle Games</a>
-                    <a href="https://critacle.itch.io/game-client-simulator" target="_blank">Play on Itch.io</a>
+                    <a href="/games.html" class="btn btn-primary">View on Critacle Games</a>
+                    <a href="https://critacle.itch.io/game-client-simulator" target="_blank" class="btn btn-secondary">Play on Itch.io</a>
                 </div>
             </div>
 
@@ -81,12 +86,12 @@
                     <span>Complete</span>
                 </div>
                 <div class="project-links">
-                    <a href="/games.html">View on Critacle Games</a>
+                    <a href="/games.html" class="btn btn-primary">View on Critacle Games</a>
                 </div>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;" id="music-audio">
+        <section id="music-audio">
             <h2>🎵 Music & Audio Projects</h2>
             
             <div class="project-card">
@@ -110,8 +115,8 @@
                     <span>Complete</span>
                 </div>
                 <div class="project-links">
-                    <a href="/games.html">View on Critacle Games</a>
-                    <a href="https://critacle.itch.io/orchestroller" target="_blank">Play on Itch.io</a>
+                    <a href="/games.html" class="btn btn-primary">View on Critacle Games</a>
+                    <a href="https://critacle.itch.io/orchestroller" target="_blank" class="btn btn-secondary">Play on Itch.io</a>
                 </div>
             </div>
 
@@ -125,12 +130,12 @@
                     <span>Open Source</span>
                 </div>
                 <div class="project-links">
-                    <a href="https://github.com/crawsome/DeFidelity" target="_blank">View on GitHub</a>
+                    <a href="https://github.com/crawsome/DeFidelity" target="_blank" class="btn btn-primary">View on GitHub</a>
                 </div>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;" id="automation">
+        <section id="automation">
             <h2>🛠️ Development Tools & Utilities</h2>
             
             <div class="project-card">
@@ -167,7 +172,7 @@
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;" id="featured-public">
+        <section id="featured-public">
             <h2>🎯 Featured Public Projects</h2>
             
             <div class="project-card">
@@ -180,7 +185,7 @@
                     <span>65⭐ GitHub</span>
                 </div>
                 <div class="project-links">
-                    <a href="https://github.com/crawsome/GuitarScaleChart" target="_blank">View on GitHub</a>
+                    <a href="https://github.com/crawsome/GuitarScaleChart" target="_blank" class="btn btn-primary">View on GitHub</a>
                 </div>
             </div>
 
@@ -194,86 +199,83 @@
                     <span>65⭐ GitHub</span>
                 </div>
                 <div class="project-links">
-                    <a href="https://github.com/crawsome/PyRPG_Mini" target="_blank">View on GitHub</a>
+                    <a href="https://github.com/crawsome/PyRPG_Mini" target="_blank" class="btn btn-primary">View on GitHub</a>
                 </div>
             </div>
 
             <div class="project-card">
-                <h3>Reddit Image Scraper ⭐ 42 Stars</h3>
-                <p>Enhanced media downloading script for Reddit content. Forked and improved from D3vd's original, featuring bulk downloading, subreddit targeting, and advanced filtering options.</p>
+                <h3>PyMusicGen Series</h3>
+                <p>Evolution of AI music generation tools from desktop application to web platform. Demonstrates progression in user interface design and AI integration capabilities.</p>
                 <div class="project-meta">
                     <span>Python</span>
-                    <span>Web Scraping</span>
-                    <span>Media Download</span>
-                    <span>42⭐ GitHub</span>
+                    <span>AI Music</span>
+                    <span>Web Development</span>
+                    <span>Series</span>
                 </div>
                 <div class="project-links">
-                    <a href="https://github.com/crawsome/Reddit-Image-Scraper" target="_blank">View on GitHub</a>
+                    <a href="https://github.com/crawsome/PyMusicGen" target="_blank" class="btn btn-primary">View on GitHub</a>
                 </div>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;" id="web-development">
-            <h2>🌐 Web Development</h2>
+        <section id="web-applications">
+            <h2>🌐 Web Applications</h2>
             
             <div class="project-card">
-                <h3>Personal Website (2025)</h3>
-                <p>This website - built with HTML, CSS, and JavaScript. Clean, responsive design showcasing my work and services. Mobile-first approach with working navigation.</p>
-                <div class="project-meta">
-                    <span>HTML/CSS</span>
-                    <span>JavaScript</span>
-                    <span>Responsive Design</span>
-                    <span>GitHub Pages</span>
-                </div>
-                <div class="project-links">
-                    <a href="https://github.com/crawsome/colinburke.github.io" target="_blank">View on GitHub</a>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <h3>Flask Web Applications</h3>
-                <p>Various Flask-based web applications including image viewers, data processing tools, and automation interfaces. Lightweight, performant solutions for specific use cases.</p>
+                <h3>Flask Image Management System</h3>
+                <p>Recursive directory traversal with thumbnail generation and responsive image browsing. Optimized for performance with lazy loading and efficient file handling.</p>
                 <div class="project-meta">
                     <span>Python</span>
                     <span>Flask</span>
-                    <span>Web Apps</span>
-                    <span>Multiple Projects</span>
+                    <span>Image Processing</span>
+                    <span>Performance</span>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <h3>Custom Business Solutions</h3>
+                <p>Tailored web applications for specific business needs. From data processing dashboards to automated workflow systems, built with scalability and maintainability in mind.</p>
+                <div class="project-meta">
+                    <span>Python</span>
+                    <span>Flask</span>
+                    <span>Business Logic</span>
+                    <span>Custom Solutions</span>
                 </div>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;" id="cloud-infrastructure">
-            <h2>☁️ Cloud & Infrastructure</h2>
+        <section id="automation-scripts">
+            <h2>🤖 Automation & Scripts</h2>
             
             <div class="project-card">
-                <h3>Google Cloud Platform Migration</h3>
-                <p>Enterprise-level cloud migration projects for large organizations. Infrastructure design, cost optimization, and training for cloud-native operations.</p>
+                <h3>File Processing Automation</h3>
+                <p>Batch processing scripts for file organization, data transformation, and workflow automation. Saves hours of manual work through intelligent automation.</p>
                 <div class="project-meta">
-                    <span>Google Cloud</span>
-                    <span>Migration</span>
-                    <span>Enterprise</span>
-                    <span>ACE Certified</span>
+                    <span>Python</span>
+                    <span>Automation</span>
+                    <span>Batch Processing</span>
+                    <span>Productivity</span>
                 </div>
             </div>
 
             <div class="project-card">
-                <h3>System Automation</h3>
-                <p>Custom automation scripts and tools for system administration, data processing, and workflow optimization. Python-based solutions for enterprise environments.</p>
+                <h3>System Administration Tools</h3>
+                <p>Custom scripts for server management, monitoring, and maintenance tasks. Designed for reliability and ease of use in production environments.</p>
                 <div class="project-meta">
                     <span>Python</span>
-                    <span>Automation</span>
                     <span>System Admin</span>
-                    <span>Enterprise</span>
+                    <span>Monitoring</span>
+                    <span>Production Ready</span>
                 </div>
             </div>
         </section>
 
         <div class="cta-section">
-            <h2>Want to See More?</h2>
-            <p>Explore my visual portfolio, read technical implementation stories, or learn about my consulting services.</p>
+            <h2>Interested in working together?</h2>
+            <p>Let's discuss how I can help bring your technical ideas to life or solve your development challenges.</p>
             <div class="cta-buttons">
-                <a href="/portfolio.html" class="primary">Visual Portfolio</a>
-                <a href="/techblog.html" class="secondary">Tech Blog</a>
+                <a href="/itconsulting.html" class="btn btn-primary">Hire Me</a>
+                <a href="/portfolio.html" class="btn btn-secondary">View Portfolio</a>
             </div>
         </div>
     </div>

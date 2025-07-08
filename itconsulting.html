@@ -6,6 +6,7 @@
     <title>IT Consulting - Colin Burke</title>
     <meta name="description" content="Professional development services, automation solutions, and technical consulting">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="top-nav">
@@ -24,22 +25,30 @@
         </div>
     </nav>
 
+    <div class="mobile-nav" id="mobileNav">
+        <div class="mobile-nav-links">
+            <a href="/">Home</a>
+            <a href="/portfolio.html">Portfolio</a>
+            <a href="/games.html">Games</a>
+            <a href="/projects.html">Projects</a>
+            <a href="/techblog.html">Tech Blog</a>
+            <a href="/aboutme.html">About</a>
+            <a href="/itconsulting.html" class="active">Hire Me</a>
+        </div>
+    </div>
+
     <div class="main-content">
-        <div style="text-align: center; margin: 1rem 0;">
+        <div class="hero-section">
             <h1>IT Consulting Services</h1>
-            <p style="font-size: 1.1rem; color: var(--dark-grey); margin-bottom: 1rem;">Professional development services, automation solutions, and technical consulting for your business needs.</p>
-            <p style="font-weight: 600; color: var(--primary-blue);">PowerOnPC LLC • Over a decade of proven results • Certified Cloud Engineer</p>
+            <p class="hero-subtitle">Professional development services, automation solutions, and technical consulting for your business needs.</p>
+            <div class="hero-tags">
+                <span class="tag">PowerOnPC LLC</span>
+                <span class="tag">Certified Cloud Engineer</span>
+                <span class="tag">10+ Years Experience</span>
+            </div>
         </div>
 
-        <div class="nav-links">
-            <a href="/portfolio.html">📁 Portfolio</a>
-            <a href="/games.html">🎮 Critacle Games</a>
-            <a href="/projects.html">🔧 All Projects</a>
-            <a href="/techblog.html">📝 Tech Blog</a>
-            <a href="/aboutme.html">👨‍💻 About Me</a>
-        </div>
-
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Core Services</h2>
             
             <div class="project-card">
@@ -103,7 +112,7 @@
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Common Client Challenges I Solve</h2>
             
             <div class="skills-grid">
@@ -145,7 +154,7 @@
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Why Choose Colin Burke Consulting?</h2>
             
             <div class="project-card">
@@ -169,7 +178,7 @@
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
+        <section>
             <h2>Service Offerings</h2>
             
             <div class="portfolio-grid">
@@ -198,87 +207,52 @@
                     <ul>
                         <li>Python development training</li>
                         <li>Cloud platform education</li>
-                        <li>Code review and best practices</li>
+                        <li>Best practices implementation</li>
                         <li>Ongoing technical support</li>
                     </ul>
                 </div>
-            </div>
-        </section>
 
-        <section style="margin: 1.5rem 0;">
-            <h2>Recent Success Stories</h2>
-            
-            <div class="project-card">
-                <h3>Audio Processing Automation</h3>
-                <p>Built automated WAV file processing system for creating lo-fi audio versions across entire directories.</p>
-                <div class="project-meta">
-                    <span>Python</span>
-                    <span>Audio Processing</span>
-                    <span>Automation</span>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <h3>Game Development Pipeline</h3>
-                <p>Developed multiple games including Dragon Quest-style RPG and Steam-like game management interface through Critacle Games.</p>
-                <div class="project-meta">
-                    <span>GameMaker Studio 2</span>
-                    <span>Game Design</span>
-                    <span>User Experience</span>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <h3>Web Application Development</h3>
-                <p>Created Flask-based image management system with recursive directory traversal and thumbnail generation.</p>
-                <div class="project-meta">
-                    <span>Flask</span>
-                    <span>Web Development</span>
-                    <span>Performance</span>
+                <div class="portfolio-item">
+                    <h3>🔧 Maintenance & Optimization</h3>
+                    <ul>
+                        <li>System monitoring and maintenance</li>
+                        <li>Performance tuning and optimization</li>
+                        <li>Security updates and patches</li>
+                        <li>Backup and disaster recovery</li>
+                    </ul>
                 </div>
             </div>
         </section>
 
-        <section style="margin: 1.5rem 0;">
-            <h2>Ready to Get Started?</h2>
-            <p>Let's discuss your technical challenges and find the right solution for your needs.</p>
+        <section>
+            <h2>Getting Started</h2>
+            <p>Ready to solve your technical challenges? Here's how we can work together:</p>
             
-            <div class="portfolio-grid">
-                <div class="portfolio-item">
-                    <h3>📞 Contact</h3>
-                    <ul>
-                        <li><strong><a href="https://calendly.com/crawsome" target="_blank">Schedule a Call</a></strong> - Let's discuss your project</li>
-                        <li><strong><a href="https://www.linkedin.com/in/colingburke/" target="_blank">LinkedIn</a></strong> - Professional networking</li>
-                        <li><strong><a href="mailto:colin@poweronpc.com">Email</a></strong> - Direct communication</li>
-                    </ul>
+            <div class="project-card">
+                <h3>Initial Consultation</h3>
+                <p>Let's discuss your needs, challenges, and goals. I'll provide a clear assessment of how technology can help solve your problems.</p>
+                <div class="project-links">
+                    <a href="https://calendly.com/crawsome" target="_blank" class="btn btn-primary">Schedule a Call</a>
                 </div>
+            </div>
 
-                <div class="portfolio-item">
-                    <h3>💼 Portfolio</h3>
-                    <ul>
-                        <li><strong><a href="/projects.html">All Projects</a></strong> - See my technical work</li>
-                        <li><strong><a href="/games.html">Game Development</a></strong> - Critacle Games portfolio</li>
-                        <li><strong><a href="/techblog.html">Tech Blog</a></strong> - Implementation insights</li>
-                    </ul>
-                </div>
+            <div class="project-card">
+                <h3>Project Planning</h3>
+                <p>Once we understand your needs, I'll create a detailed project plan with timelines, deliverables, and clear communication channels.</p>
+            </div>
 
-                <div class="portfolio-item">
-                    <h3>🎯 Next Steps</h3>
-                    <ul>
-                        <li><strong>Initial Consultation</strong> - Free 30-minute discovery call</li>
-                        <li><strong>Project Assessment</strong> - Technical review and recommendations</li>
-                        <li><strong>Proposal & Timeline</strong> - Detailed project plan</li>
-                    </ul>
-                </div>
+            <div class="project-card">
+                <h3>Implementation & Support</h3>
+                <p>I'll build your solution, provide training for your team, and offer ongoing support to ensure long-term success.</p>
             </div>
         </section>
 
         <div class="cta-section">
-            <h2>Let's Solve Your Technical Challenges!</h2>
-            <p>Ready to streamline your operations, build custom solutions, or migrate to the cloud? Let's discuss how I can help.</p>
+            <h2>Ready to transform your business with technology?</h2>
+            <p>Let's discuss how I can help solve your technical challenges and build solutions that work for your business.</p>
             <div class="cta-buttons">
-                <a href="https://calendly.com/crawsome" target="_blank" class="primary">Schedule a Call</a>
-                <a href="/projects.html" class="secondary">See My Work</a>
+                <a href="https://calendly.com/crawsome" target="_blank" class="btn btn-primary">Schedule a Consultation</a>
+                <a href="/projects.html" class="btn btn-secondary">See My Work</a>
             </div>
         </div>
     </div>
